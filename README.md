@@ -14,11 +14,11 @@
 
 <h2 class="class"> 
 
-- 🔭 I’m currently working on [TRMM Scripts](https://github.com/Brandon-Roff/TRMM-Scripts)
+- 🔭 I’m currently working on [TRMM Scripts](https://github.com/Nerdy-Technician/TRMM-Scripts) & [Boiler Plates](https://github.com/Nerdy-Technician/Boiler-Plates)
 
 - 🌱 I’m currently learning **Intune, Endpoint Mangement and Ansible**
 
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/Brandon-Roff/)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/Nerdy-Technician/)
 
 - 💬 Ask me about **Python, Docker, HomeLabs, Debain-based Distros, Powershell and bash scripting, Lego or Automation!**
 
@@ -66,8 +66,8 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Visual Studio" width="80" height="80" /> </a>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Brandon-Roff&show_icons=true&theme=monokai" alt="Brandon-Roff" /></p> 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Roff&layout=compact&theme=monokai"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nerdy-Technician&show_icons=true&theme=monokai" alt="Nerdy-Technician" /></p> 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerdy-Technician&layout=compact&theme=monokai"></p>
 
 
 <br>
