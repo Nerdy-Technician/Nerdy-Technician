@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: Personal Projects
       text: Projects
-      link: /projects
+      link: /projects.md
       type: primary
     - theme: Contributions
       text: Contributions
@@ -21,17 +21,13 @@ hero:
       link: /about
       type: secondary
   image:
-    src: /Logo.png
+    src: /Publice/Logo.png
     alt: Logo
 
 features:
 
   - title: 📜 TRMM Scripts
     details:  A collection of scripts to help with various tasks and automate processes related to Tactical RMM Project.
-  
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 ---
 
