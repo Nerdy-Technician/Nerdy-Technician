@@ -11,6 +11,7 @@ export default defineConfig({
       { text: 'Projects', link: '/projects' },
       { text: 'About', link: '/about' },
     ],
+    logo: '/Portfolio.png',
 
     sidebar: [
       {

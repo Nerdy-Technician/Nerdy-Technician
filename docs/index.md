@@ -7,6 +7,8 @@ hero:
   name: "Nerdy Technician's"
   text: "Portfolio"
   tagline: Because Real Nerds Selfhost
+
+
   actions:
     - theme: Personal Projects
       text: Projects
@@ -21,8 +23,8 @@ hero:
       link: /about
       type: secondary
   image:
-    src: /Publice/Logo.png
-    alt: Logo
+   src: /Logo.png
+   alt: Logo
 
 features:
 
