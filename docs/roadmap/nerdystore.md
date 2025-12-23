@@ -173,4 +173,4 @@ Help build the future of NerdyStore!
 **Last Updated:** December 23, 2025  
 **Next Update:** March 31, 2025
 
-[← Back to Projects](../../projects.md)
+[← Back to Projects](/projects.md)
