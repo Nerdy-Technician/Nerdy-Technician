@@ -9,20 +9,26 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Projects', link: '/projects.md' },
+      { text: 'Contributions', link: '/contributions.md' },
       { text: 'About', link: '/about.md' },
+      { text: 'Docs', link: '/docs/' }
     ],
-    logo: '/Logo.png',
+    logo: 'https://avatars.githubusercontent.com/u/45691205?v=4',
 
-    sidebar: [
-      {
-        text: 'Navigation',
-        items: [
-          { text: 'Personal Projects', link: '/projects.md' },
-          { text: 'Projects I Contribute To', link: '/contributions.md' },
-          { text: 'About Me', link: '/about.md' }
-        ]
-      }
-    ],
+    sidebar: {
+      '/docs/': [
+        {
+          text: 'Documentation',
+          items: [
+            { text: 'Overview', link: '/docs/' },
+            { text: 'TRMM Scripts', link: '/docs/trmm-scripts' },
+            { text: 'LinuxRMM-Script', link: '/docs/linuxrmm-script' },
+            { text: 'NerdyStore', link: '/docs/nerdystore' },
+            { text: 'Boiler Plates', link: '/docs/boiler-plates' }
+          ]
+        }
+      ]
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Nerdy-Technician' }

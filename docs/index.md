@@ -3,40 +3,59 @@
 layout: home
 
 hero:
-
   name: "Nerdy Technician's"
   text: "Portfolio"
-  tagline: Because Real Nerds Selfhost
-
+  tagline: 🔒 Because Real Nerds Selfhost
 
   actions:
-    - theme: Personal Projects
-      text: Projects
+    - theme: brand
+      text: 🚀 Explore Projects
       link: /projects.md
-      type: primary
-    - theme: Contributions
-      text: Contributions
+    - theme: alt
+      text: 🤝 Contributions
       link: /contributions.md
-      type: secondary
-    - theme: About Me
-      text: About
+    - theme: alt
+      text: 👨‍💻 About Me
       link: /about.md
-      type: secondary
-  image:
-   src: /Logo.png
-   alt: Logo  
 
+  image:
+    src: https://avatars.githubusercontent.com/u/45691205?v=4
+    alt: Nerdy-Technician Avatar
 
 features:
+  - icon: 📜
+    title: TRMM Scripts
+    details: A popular 3rd party script repository for Tactical RMM. Comprehensive automation scripts for remote monitoring and management systems used by the community.
+    link: /contributions.md#trmm-scripts
+    linkText: Learn More
 
-  - title: 📜 TRMM Scripts
-    details:  A collection of scripts to help with various tasks and automate processes related to Tactical RMM Project.
-    link: /projects.md#trmm-scripts
+  - icon: 🔧
+    title: LinuxRMM-Script
+    details: My improved version with enhanced features, better error handling, and production-ready stability. Building on community foundations.
+    link: /contributions.md#linuxrmm-script
+    linkText: Learn More
 
-  - title: 🔧 LinuxRMM-Script
-    details: My own improved version of the Linux RMM Script, building upon the foundation with enhanced features, better error handling, and optimizations for production environments.
-    link: /projects.md#linuxrmm-script
+  - icon: 🛍️
+    title: NerdyStore
+    details: Soon-to-be official 3rd party app for Nexterm Suite. Full-stack development showcasing modern web technologies and best practices.
+    link: /contributions.md#nerdystore
+    linkText: Learn More
 
-  - title: 🛍️ NerdyStore
-    details: My Personal 3rd party app for the Nexterm Suite, showcasing full-stack development capabilities with practical implementation of modern web technologies.
-    link: /projects.md#nerdystore
+  - icon: 🌐
+    title: Open Source Advocate
+    details: Passionate about contributing to community projects and helping developers. Active contributor to multiple platforms and ecosystems.
+    link: /contributions.md
+    linkText: See All Contributions
+
+  - icon: ⚙️
+    title: Automation Expert
+    details: Specialized in scripting, infrastructure automation, and DevOps solutions. Docker, Kubernetes, and cloud infrastructure expertise.
+    link: /about.md#skills--technologies
+    linkText: View Skills
+
+  - icon: 🎯
+    title: Tech Enthusiast
+    details: Linux enthusiast, retro gamer, and continuous learner. Always exploring new technologies and sharing knowledge with the community.
+    link: /about.md#-who-i-am
+    linkText: About Me
+---

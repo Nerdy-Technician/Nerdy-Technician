@@ -1,47 +1,66 @@
-# Projects I Work On & Contribute To
+# 🤝 Projects I Work On & Contribute To
 
-Here are the projects I actively develop and contribute to. These represent my ongoing efforts to create useful tools and resources for the community.
+Here are the projects I actively develop and contribute to. These represent my ongoing efforts to **create useful tools** and **share knowledge** with the community.
 
-## Open Source Contributions
+---
+
+## 🌟 Open Source Contributions
 
 ### 🤝 [netvolt/LinuxRMM-Script](https://github.com/netvolt/LinuxRMM-Script)
-Contributing to this community-driven Linux RMM automation script project. My contributions help improve cross-platform compatibility and extend functionality for remote monitoring and management systems.
+
+Contributing to this community-driven Linux RMM automation script project. My contributions help improve **cross-platform compatibility** and **extend functionality** for remote monitoring and management systems.
+
+**Status:** Active Contributor 🔄
 
 ---
 
 ### 🔧 [LinuxRMM-Script](https://github.com/Nerdy-Technician/LinuxRMM-Script)
+
 My own improved version of the Linux RMM Script, building upon the foundation with enhanced features, better error handling, and optimizations for production environments.
 
-**Enhancements:**
-- Performance improvements
-- Extended functionality
-- Better logging and debugging
-- Production-ready stability
-
----
-
-## My Popular Open Source Projects
+**✨ Key Enhancements:**
+- ⚡ Performance improvements
+- 🚀 My Popular Open Source Projects
 
 ### 📜 [TRMM Scripts](https://github.com/Nerdy-Technician/TRMM-Scripts)
-A popular 3rd party script repository for **Tactical RMM (Remote Monitoring and Management)**. This comprehensive collection of automation scripts helps streamline various tasks and automate processes related to the TRMM project.
 
-**Features:**
+> A popular 3rd party script repository for **Tactical RMM (Remote Monitoring and Management)**
+
+This comprehensive collection of automation scripts helps streamline various tasks and automate processes related to the TRMM project.
+
+**✨ Features:**
 - Comprehensive automation scripts for TRMM
 - Community-driven development
 - Scalable infrastructure management
 - Regular updates and improvements
 
+**⭐ Community Impact:** Popular choice for TRMM users worldwide
+
 ---
 
-## Third-Party App Development
+## 🎯 Third-Party App Development
 
 ### 🛍️ [NerdyStore](https://github.com/Nerdy-Technician/NerdyStore)
-A soon-to-be official 3rd party app for the **Nexterm Suite**. This project showcases full-stack development capabilities with practical implementation of modern web technologies.
 
-**Purpose:**
-- Third-party app for Nexterm Suite ecosystem
-- E-commerce and marketplace functionality
-- Integration with Nexterm platform
+> A soon-to-be **official 3rd party app** for the **Nexterm Suite** 🎉
+
+This project showcases full-stack development capabilities with practical implementation of modern web technologies.
+
+**📋 Purpose:**
+- 🔌 Third-party app for Nexterm Suite ecosystem
+- 🛒 E-commerce and marketplace functionality
+- 🔗 Integration with Nexterm platform
+- ⚙️ Modern development practices
+
+**Status:** 🔄 In Development
+
+---
+
+### 🔗 [Nexterm](https://github.com/gnmyt/Nexterm)
+
+Contributing to the **Nexterm** project, an innovative platform that's expanding its ecosystem with third-party applications and integrations.
+
+**My Role:** Active Contributor & App Developer 🚀
 - Modern development practices
 
 ---

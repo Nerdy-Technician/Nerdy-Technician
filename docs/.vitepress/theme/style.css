@@ -218,8 +218,8 @@
   --vp-c-default-soft: var(--vp-c-gray-soft);
 
   --vp-c-brand-1: var(--vp-c-custom-red);
-  --vp-c-brand-2: var(--vp-c-indigo-2);
-  --vp-c-brand-3: var(--vp-c-indigo-3);
+  --vp-c-brand-2: var(--vp-c-custom-red-2);
+  --vp-c-brand-3: var(--vp-c-custom-red-2);
   --vp-c-brand-soft: var(--vp-c-indigo-soft);
 
   /* DEPRECATED: Use `--vp-c-brand-1` instead. */
@@ -398,7 +398,7 @@
 :root {
   --vp-button-brand-border: transparent;
   --vp-button-brand-text: var(--vp-c-white);
-  --vp-button-brand-bg: var(--vp-c-brand-3);
+  --vp-button-brand-bg: var(--vp-c-custom-red);
   --vp-button-brand-hover-border: transparent;
   --vp-button-brand-hover-text: var(--vp-c-white);
   --vp-button-brand-hover-bg: var(--vp-c-brand-2);
