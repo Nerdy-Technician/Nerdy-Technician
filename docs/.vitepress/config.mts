@@ -8,18 +8,18 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Projects', link: '/projects' },
-      { text: 'About', link: '/about' },
+      { text: 'Projects', link: '/projects.md' },
+      { text: 'About', link: '/about.md' },
     ],
     logo: '/Logo.png',
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Navigation',
         items: [
-          { text: 'Personal Projects', link: '/projects' },
-          { text: 'Projects I contribute to', link: '/contributions' },
-          { text: 'About Me', link: '/about' }
+          { text: 'Personal Projects', link: '/projects.md' },
+          { text: 'Projects I Contribute To', link: '/contributions.md' },
+          { text: 'About Me', link: '/about.md' }
         ]
       }
     ],
