@@ -20,11 +20,11 @@ export default defineConfig({
         {
           text: 'Documentation',
           items: [
-            { text: 'Overview', link: '/docs/' },
-            { text: 'TRMM Scripts', link: '/docs/trmm-scripts' },
-            { text: 'LinuxRMM-Script', link: '/docs/linuxrmm-script' },
-            { text: 'NerdyStore', link: '/docs/nerdystore' },
-            { text: 'Boiler Plates', link: '/docs/boiler-plates' }
+            { text: '📚 Overview', link: '/docs/' },
+            { text: '📜 TRMM Scripts', link: '/docs/trmm-scripts' },
+            { text: '🔧 LinuxRMM-Script', link: '/docs/linuxrmm-script' },
+            { text: '🛍️ NerdyStore', link: '/docs/nerdystore' },
+            { text: '🔨 Boiler Plates', link: '/docs/boiler-plates' }
           ]
         }
       ]

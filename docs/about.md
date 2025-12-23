@@ -19,14 +19,14 @@ Where I design and implement enterprise-grade scripts for Microsoft 365, on-prem
 
 ## 🎯 What I Do
 
-### 🔭 Currently Working On
+### 👀 Currently Working On
 | Project | Focus |
 |---------|-------|
 | [**TRMM Scripts**](https://github.com/Nerdy-Technician/TRMM-Scripts) | Tactical RMM automation & community tools |
 | [**Boiler Plates**](https://github.com/Nerdy-Technician/Boiler-Plates) | Project templates & starter kits |
 | [**NerdyStore**](https://github.com/Nerdy-Technician/NerdyStore) | Nexterm Suite 3rd party app |
 
-### 🌱 Currently Learning
+### 🌿 Currently Learning
 - 🔐 Intune and Endpoint Management
 - 🤖 Ansible for infrastructure automation  
 - ☁️ Advanced cloud infrastructure patterns
@@ -51,7 +51,7 @@ Where I design and implement enterprise-grade scripts for Microsoft 365, on-prem
 | **Databases** | MySQL, MongoDB |
 | **Version Control** | Git, GitHub |
 
-### 🐧 Applications & Operating Systems
+### <i class="fas fa-linux"></i> Applications & Operating Systems
 | Category | Technologies |
 |----------|------------------|
 | **Linux** | Ubuntu, Debian (favorites!) |
@@ -60,7 +60,7 @@ Where I design and implement enterprise-grade scripts for Microsoft 365, on-prem
 | **Development** | Visual Studio, VS Code, Git |
 | **Remote Access** | mRemote, Tactical RMM, Nexterm, PuTTY, Bitvise |
 
-### 🛠️ Specializations
+### <i class="fas fa-tools"></i> Specializations
 - ✅ Infrastructure Automation & DevOps
 - ✅ System Administration (Linux & Windows)
 - ✅ Cloud Management Basics
@@ -86,7 +86,7 @@ Systems Implementation & Support
 
 ---
 
-## 🌟 My Philosophy
+## ❤️ My Philosophy
 
 > **Automate Everything** | **Document Well** | **Share Knowledge** | **Keep Learning**
 
@@ -102,6 +102,6 @@ Systems Implementation & Support
 
 ---
 
-## 🚀 Let's Build Something Amazing
+## <i class="fas fa-rocket"></i> Let's Build Something Amazing
 
 I'm always open to collaboration, questions, and discussions about technology! Feel free to reach out. ✨

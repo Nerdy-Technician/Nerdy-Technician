@@ -14,7 +14,7 @@ Curated collection of **project templates** and **starter kits** designed to acc
 
 ---
 
-## 📦 Available Templates
+## 📚 Available Templates
 
 Visit the repository for the latest templates:
 [Boiler Plates Repository](https://github.com/Nerdy-Technician/Boiler-Plates)

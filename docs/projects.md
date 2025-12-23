@@ -4,37 +4,98 @@ A showcase of my personal projects that represent my passion for **automation**,
 
 ---
 
-## ⭐ Featured Projects
+## 📜 TRMM Scripts
 
-### 📜 [TRMM Scripts](https://github.com/Nerdy-Technician/TRMM-Scripts)
+<div style="background: linear-gradient(135deg, #1b1b1f #1b1b1f; padding: 20px; border-radius: 10px; color: white; margin: 20px 0;">
 
-> A popular 3rd party script repository for **Tactical RMM (Remote Monitoring and Management)**
+> A **popular 3rd party script repository** for Tactical RMM
 
-This comprehensive collection of automation scripts helps streamline various tasks and automate processes related to the TRMM project. It's become a go-to resource for TRMM users!
+> [!WARNING] This is a 3rd party community project and is not officially affiliated with Tactical RMM, but widely used and trusted by the community!
 
-**✨ Features:**
-- ✅ Comprehensive automation scripts for TRMM
-- ✅ Community-driven development
-- ✅ Scalable infrastructure management
-- ✅ Regular updates and improvements
-🔜 More Projects Coming Soon
+**✨ What This Project Offers:**
+- ✅ Comprehensive automation scripts for Tactical RMM
+- ✅ Community-driven development & improvements
+- ✅ Production-ready, scalable infrastructure management
+- ✅ Regular updates and new features
+- ✅ Well-documented and easy to implement
+- ✅ Active community support
 
-I'm continuously developing new projects and refining existing ones. Check back soon for updates!
+**🛠️ Technologies:**
+`Python` `Bash` `PowerShell` `Automation` `DevOps`
 
----
+**📚 Documentation:** [View Full Docs](/docs/trmm-scripts.md)
 
-<div style="text-align: center; padding: 20px;">
-
-### 🎯 Want to see all my work?
-
-**[Visit my GitHub Profile →](https://github.com/Nerdy-Technician/)**
-
-Or check out the **[Projects I Contribute To →](./contributions.md)**
+**🔗 Links:**
+- [View Repository](https://github.com/Nerdy-Technician/TRMM-Scripts)
+- [Tactical RMM Official Docs](https://docs.tacticalrmm.com/)
 
 </div>
 
-I'm continuously developing new projects and refining existing ones. Check back soon for updates or visit my [GitHub profile](https://github.com/Nerdy-Technician/) to see all my latest work!
+---
+
+## 🔧 LinuxRMM-Script
+
+My own improved version of the Linux RMM Script, building upon the foundation with enhanced features, better error handling, and optimizations for production environments.
+
+**✨ Key Enhancements:**
+- ⚡ Performance improvements
+- 🆕 Extended functionality
+- 📊 Better logging and debugging
+- 🏆 Production-ready stability
+
+**📚 Documentation:** [View Full Docs](/docs/linuxrmm-script.md)
+
+**🔗 Links:**
+- [View Repository](https://github.com/Nerdy-Technician/LinuxRMM-Script)
 
 ---
 
-**Want to see more?** Visit my [GitHub](https://github.com/Nerdy-Technician/) or check out the [Projects I Contribute To](./contributions.md).
+## 🛍️ NerdyStore
+
+A soon-to-be **official 3rd party app** for the **Nexterm Suite**.
+
+This project showcases full-stack development capabilities with practical implementation of modern web technologies.
+
+**📋 Purpose:**
+- 🔌 Third-party app for Nexterm Suite ecosystem
+- 🛒 E-commerce and marketplace functionality
+- 🔗 Integration with Nexterm platform
+- ⚙️ Modern development practices
+
+**Status:** 🔄 In Development
+
+**📚 Documentation:** [View Full Docs](/docs/nerdystore.md)
+
+**🔗 Links:**
+- [View Repository](https://github.com/Nerdy-Technician/NerdyStore)
+
+---
+
+## 🔨 Boiler Plates
+
+A curated collection of project templates and starter kits designed to accelerate development across various tech stacks. These boiler plates provide a solid foundation for new projects, reducing setup time and ensuring best practices.
+
+**Includes:**
+- Web application templates
+- Docker and containerization setups
+- Infrastructure-as-Code examples
+- Configuration templates for common frameworks
+
+**📚 Documentation:** [View Full Docs](/docs/boiler-plates.md)
+
+**🔗 Links:**
+- [View Repository](https://github.com/Nerdy-Technician/Boiler-Plates)
+
+---
+
+<div style="text-align: center; padding: 30px; background: rgba(102, 126, 234, 0.1); border-radius: 10px; margin: 20px 0;">
+
+## 🎯 Want to Explore More?
+
+**[View All My GitHub Projects →](https://github.com/Nerdy-Technician?tab=repositories)**
+
+**[Check Out My Contributions →](./contributions.md)**
+
+**[Browse Documentation →](/docs/)**
+
+</div>

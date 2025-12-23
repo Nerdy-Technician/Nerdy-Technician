@@ -26,7 +26,7 @@ features:
   - icon: 📜
     title: TRMM Scripts
     details: A popular 3rd party script repository for Tactical RMM. Comprehensive automation scripts for remote monitoring and management systems used by the community.
-    link: /contributions.md#trmm-scripts
+    link: /projects.md#trmm-scripts
     linkText: Learn More
 
   - icon: 🔧
@@ -38,10 +38,10 @@ features:
   - icon: 🛍️
     title: NerdyStore
     details: Soon-to-be official 3rd party app for Nexterm Suite. Full-stack development showcasing modern web technologies and best practices.
-    link: /contributions.md#nerdystore
+    link: /projects.md#nerdystore
     linkText: Learn More
 
-  - icon: 🌐
+  - icon: 🌿
     title: Open Source Advocate
     details: Passionate about contributing to community projects and helping developers. Active contributor to multiple platforms and ecosystems.
     link: /contributions.md
@@ -53,7 +53,7 @@ features:
     link: /about.md#skills--technologies
     linkText: View Skills
 
-  - icon: 🎯
+  - icon: 🚀
     title: Tech Enthusiast
     details: Linux enthusiast, retro gamer, and continuous learner. Always exploring new technologies and sharing knowledge with the community.
     link: /about.md#-who-i-am
