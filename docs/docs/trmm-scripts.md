@@ -1,4 +1,4 @@
-# <i class="fas fa-scroll"></i> TRMM Scripts Documentation
+# 📜 TRMM Scripts Documentation
 
 Comprehensive automation scripts for **Tactical RMM (Remote Monitoring and Management)**.
 
@@ -18,7 +18,7 @@ Comprehensive automation scripts for **Tactical RMM (Remote Monitoring and Manag
 
 ---
 
-## <i class="fas fa-bullseye"></i> Overview
+## 🎯 Overview
 
 TRMM Scripts is a collection of well-documented, production-ready automation scripts designed to enhance your Tactical RMM deployment. Whether you're managing a small team or a large enterprise, these scripts help you:
 

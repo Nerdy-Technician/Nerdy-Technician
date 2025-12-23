@@ -599,3 +599,67 @@
   --vp-local-search-highlight-bg: var(--vp-c-brand-1);
   --vp-local-search-highlight-text: var(--vp-c-neutral-inverse);
 }
+
+/**
+ * Footer Links
+ * -------------------------------------------------------------------------- */
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+.footer-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--vp-c-text-2);
+  text-decoration: none;
+  transition: color 0.2s;
+  font-size: 14px;
+}
+
+.footer-link:hover {
+  color: var(--vp-c-brand-1);
+}
+
+.footer-link svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+
+/**
+ * Buy Me A Coffee Button
+ * -------------------------------------------------------------------------- */
+
+.coffee-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  background: linear-gradient(135deg, #ffdd00, #ffa500);
+  color: #000;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 14px;
+  transition: transform 0.2s, box-shadow 0.2s;
+  border: none;
+  cursor: pointer;
+}
+
+.coffee-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(255, 165, 0, 0.4);
+}
+
+.coffee-button svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}

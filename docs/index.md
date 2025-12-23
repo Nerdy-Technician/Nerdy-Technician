@@ -22,40 +22,43 @@ hero:
     src: https://avatars.githubusercontent.com/u/45691205?v=4
     alt: Nerdy-Technician Avatar
 
+
+
 features:
-  - icon: 📜
-    title: TRMM Scripts
-    details: A popular 3rd party script repository for Tactical RMM. Comprehensive automation scripts for remote monitoring and management systems used by the community.
-    link: /projects.md#trmm-scripts
-    linkText: Learn More
+  - icon: 🚀
+    title: Projects
+    details: Explore my portfolio of open-source and personal projects. Innovative solutions built with modern technologies and best practices.
+    link: /projects.md
+    linkText: View Projects
 
-  - icon: 🔧
-    title: LinuxRMM-Script
-    details: My improved version with enhanced features, better error handling, and production-ready stability. Building on community foundations.
-    link: /contributions.md#linuxrmm-script
-    linkText: Learn More
+  - icon: 📚
+    title: Documentation
+    details: Comprehensive guides and documentation for all my projects. Learn how to use, integrate, and extend these tools with detailed examples.
+    link: /docs/
+    linkText: View Docs
 
-  - icon: 🛍️
-    title: NerdyStore
-    details: Soon-to-be official 3rd party app for Nexterm Suite. Full-stack development showcasing modern web technologies and best practices.
-    link: /projects.md#nerdystore
-    linkText: Learn More
-
-  - icon: 🌿
-    title: Open Source Advocate
-    details: Passionate about contributing to community projects and helping developers. Active contributor to multiple platforms and ecosystems.
+  - icon: 🤝
+    title: Contributions
+    details: Active contributor to open-source projects and community initiatives. See how I'm giving back and collaborating with the developer community.
     link: /contributions.md
-    linkText: See All Contributions
+    linkText: See Contributions
+
+  - icon: 🗺️
+    title: Roadmap
+    details: Explore the future direction of my projects. Detailed roadmaps including planned features, timelines, and development milestones.
+    link: /roadmap-index.md
+    linkText: View Roadmaps
+
+  - icon: 👨‍💻
+    title: About Me
+    details: Learn more about my skills, expertise, and passion for technology. Discover what drives my work in automation and infrastructure.
+    link: /about.md
+    linkText: About Me
 
   - icon: ⚙️
-    title: Automation Expert
-    details: Specialized in scripting, infrastructure automation, and DevOps solutions. Docker, Kubernetes, and cloud infrastructure expertise.
+    title: Tech Stack
+    details: Python, Bash, PowerShell, Docker, Kubernetes, and more. Expert in automation, DevOps, and infrastructure-as-code solutions.
     link: /about.md#skills--technologies
     linkText: View Skills
-
-  - icon: 🚀
-    title: Tech Enthusiast
-    details: Linux enthusiast, retro gamer, and continuous learner. Always exploring new technologies and sharing knowledge with the community.
-    link: /about.md#-who-i-am
-    linkText: About Me
 ---
+
