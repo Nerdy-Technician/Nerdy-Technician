@@ -1,88 +1,186 @@
 # 🔧 LinuxRMM-Script Documentation
 
-My improved version of the Linux RMM Script with enhanced features, better error handling, and production-ready stability.
+this guide provides comprehensive instructions for using the LinuxRMM-Script to install, update, and manage Tactical RMM agents on Linux systems.
 
----
+<a id="script-download-setup"></a>
 
-## 📋 Overview
+## 📥 Script Download & Setup
 
-**LinuxRMM-Script** builds upon the foundation of the popular community Linux RMM Script, adding:
-- ⚡ Performance improvements
-- 🆕 Extended functionality
-- 📊 Better logging and debugging
-- 🏆 Production-ready stability
-
----
-
-## 🚀 Getting Started
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Nerdy-Technician/LinuxRMM-Script.git
-   ```
-
-2. Review the script:
-   ```bash
-   cat LinuxRMM-Script.sh
-   ```
-
-3. Make it executable:
-   ```bash
-   chmod +x LinuxRMM-Script.sh
-   ```
-
-4. Run with appropriate permissions:
-   ```bash
-   sudo ./LinuxRMM-Script.sh
-   ```
-
----
-
-## ✨ Key Enhancements
-
-### ⚡ Performance Improvements
-- Optimized script execution
-- Reduced resource usage
-- Faster data collection
-
-### 🆕 Extended Functionality
-- Additional system checks
-- Enhanced reporting
-- More customization options
-
-### 📊 Better Logging
-- Detailed execution logs
-- Error tracking
-- Audit trail support
-
-### 🏆 Production Ready
-- Comprehensive error handling
-- Safety checks
-- Validated for enterprise use
-
----
-
-## 📝 Configuration
-
-Edit the script configuration section to customize for your environment:
+Download the script:
 
 ```bash
-# Example configuration
-RMM_API_URL="your-rmm-instance"
-LOG_LEVEL="INFO"
-ENABLE_DEBUGGING=false
+wget https://raw.githubusercontent.com/Nerdy-Technician/LinuxRMM-Script/refs/heads/main/rmmagent-linux.sh
 ```
 
+Make it executable:
+
+```bash
+sudo chmod +x rmmagent-linux.sh
+```
+
+📖 Full installation guide available here: [Installation Wiki](https://github.com/Nerdy-Technician/LinuxRMM-Script/wiki)
+
 ---
 
-## 🤝 Contributing
+<a id="fix-blank-screen-ubuntu"></a>
 
-This is an improved community fork. Contributions welcome!
+## 🖥️ Fix Blank Screen for Ubuntu Workstations (16+)
 
-Visit the [GitHub repository](https://github.com/Nerdy-Technician/LinuxRMM-Script)
+Ubuntu uses **Wayland** by default, which may cause **MeshCentral** remote desktop sessions to display a blank screen.
+
+Run the following commands to switch back to X11:
+
+```bash
+sudo sed -i '/WaylandEnable/s/^#//g' /etc/gdm3/custom.conf
+sudo systemctl restart gdm
+```
+
+> 🔹 On Ubuntu 19 and earlier, the file path is `/etc/gdm/custom.conf`.
+
+After restarting, remote desktop functionality will work properly.
 
 ---
 
-**More details coming soon!** Check back for comprehensive documentation.
+<a id="automatic-architecture-detection"></a>
+
+## ⚙️ Automatic Architecture Detection
+
+The script automatically detects system architecture using `uname -m` and maps it to the correct agent type:
+
+* `x86_64` → **amd64**
+* `i386` / `i686` → **x86**
+* `aarch64` → **arm64**
+* `armv7l` → **armv6**
+* `armv6l` → **armv6**
+
+If the architecture is unrecognized, the script exits safely with an error message.
+
+---
+
+<a id="install-the-agent"></a>
+
+## 🚀 Install the Agent
+
+Run the script with the following syntax:
+
+```bash
+./rmmagent-linux.sh install 'Mesh Agent URL' 'API URL' ClientID SiteID 'Auth Key' 'Agent Type'
+```
+
+### Parameters:
+
+1. **Mesh Agent URL** – Provided by MeshCentral (`Add Agent > Installation Executable Linux/BSD/macOS`). Copy only the base URL, leaving out install flags.
+2. **API URL** – TacticalRMM API endpoint, usually `https://api.example.com`.
+3. **Client ID** – Visible when hovering over the client name in TacticalRMM.
+4. **Site ID** – Visible when hovering over the site name in TacticalRMM.
+5. **Auth Key** – Generated under `Agents > Install Agent (Windows) > Manual`. Copy the value after `--auth`.
+6. **Agent Type** – `server` or `workstation`.
+
+### Example:
+
+```bash
+./rmmagent-linux.sh install 'https://mesh.example.com/meshagents?id=XXXXX' 'https://api.example.com' 3 1 'XXXXX' server
+```
+
+⏳ *Note: Compilation may take several minutes depending on hardware. Please be patient.*
+
+---
+<a id="prettier-simple-output"></a>
+
+## 🎨 Prettier `--simple` Output
+
+The script supports a `--simple` flag to make installation output cleaner and more readable.
+
+### Usage:
+
+```bash
+sudo bash rmmagent-linux.sh --simple install 'Mesh Agent URL' 'API URL' ClientID SiteID 'Auth Key' 'Agent Type'
+```
+
+### Features:
+
+* **Color-coded messages:**
+  * `[INFO]` – Blue, informational updates
+  * `[OK] ✅` – Green, successful steps
+  * `[ERROR] ❌` – Red, failed steps
+* Spacing between sections for easier reading
+* Collapsed download/compile progress to avoid clutter
+* All temporary files cleanup is highlighted clearly
+
+### Example:
+
+```bash
+[INFO] Installing Go 1.24.6 for amd64...
+
+[OK] ✅ Go 1.24.6 installed.
+
+[INFO] Installing MeshCentral agent for amd64...
+
+[OK] ✅ Mesh agent installed.
+
+[INFO] Compiling Tactical RMM agent for amd64...
+
+[OK] ✅ Tactical RMM agent compiled.
+
+[INFO] Installing Tactical Agent service...
+
+[OK] ✅ Tactical Agent installed successfully.
+
+[OK] ✅ Tactical Agent service installed and started.
+
+[INFO] Cleaning up temporary files...
+
+[OK] ✅ Temporary files cleaned.
+```
+---
+
+<a id="update-the-agent"></a>
+
+## 🔄 Update the Agent
+
+To update an installed agent:
+
+```bash
+./rmmagent-linux.sh update
+```
+---
+
+<a id="uninstall-the-agent"></a>
+
+## ❌ Uninstall the Agent
+
+To remove the agent:
+
+```bash
+./rmmagent-linux.sh uninstall 'Mesh FQDN' 'Mesh ID'
+```
+
+### Parameters:
+
+* **Mesh FQDN** – Example: `mesh.example.com`
+* **Mesh ID** – 64-character alphanumeric ID (Linux/BSD uninstall instructions in MeshCentral).
+
+### Example:
+
+```bash
+./rmmagent-linux.sh uninstall mesh.example.com 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+```
+
+⚠️ **Important Notes:**
+
+* Only use this method if agent removal in TacticalRMM is not working.
+* This process **does not remove records** from TacticalRMM or MeshCentral dashboards. Cleanup must be done manually.
+
+---
+
+<a id="credits"></a>
+
+## 📌 Credits
+
+This project is based on [Netvolt’s LinuxRMM-Script](https://github.com/netvolt/LinuxRMM-Script), with extended compatibility and refinements.
+
+---
+
+✨ **Professional, robust, and multi-platform ready — the easiest way to manage TacticalRMM agents on Linux.**
+
+
