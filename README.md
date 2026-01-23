@@ -79,5 +79,5 @@
 <h3 align="center">Places I have both worked ...</h3>
 <h1 align="center">
 <a href="https://www.sedcom.net/" target="_blank"> <img align="center" src="logos/sedcom-logo.png" alt="Sedcom" width="200"  /> </a>
-<a href="https://www.ormistonpark.org.uk/" target="_blank"> <img align="center" src="https://imgs.search.brave.com/IGvc9cmJQvlLSoeo3qo4Vm_2bnoRSf2YHwKuNg8pm1g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/Lzc4L09ybWlzdG9u/X1BhcmtfQWNhZGVt/eV9sb2dvLmpwZw" alt="OPA" width="175" height="80" /> </a> 
+<a href="https://www.ormistonpark.org.uk/" target="_blank"> <img align="center" src="/logos/opa.png" alt="OPA" width="80" height="80" /> </a> 
 <a href="https://www.dvr-ltd.co.uk/" target="_blank"> <img align="center" src="https://imgs.search.brave.com/wjpRZBfNwRtIx5Ovhdd4ZDUJsg6nbzIYZxZX4X9lZPk/rs:fit:1200:500:1/g:ce/aHR0cHM6Ly9wYnMu/dHdpbWcuY29tL3By/b2ZpbGVfYmFubmVy/cy85OTkzOTA5MjQv/MTQxMzg3NDY4MC8x/NTAweDUwMA" alt="DVR LTD" width="200" height="75" /> </a> 
