@@ -65,10 +65,7 @@
  <a href="https://www.putty.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="60" height="60" /> </a><br> 
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Visual Studio" width="80" height="80" /> </a>
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nerdy-Technician&show_icons=true&theme=monokai" alt="Nerdy-Technician" /></p> 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerdy-Technician&layout=compact&theme=monokai"></p>
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nerdy-Technician?cardType=level-alternate&theme=bear&fontFamily=Ubuntu&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <br>
 
