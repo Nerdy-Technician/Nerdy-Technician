@@ -27,6 +27,6 @@ The original Linux RMM Script is a great starting point, but it has some limitat
 
 
 ## 📥 How to use the script
-For full instructions on how to use the LinuxRMM-Script, please refer to the wiki page: [LinuxRMM-Script Wiki](/docs/docs/linuxrmm-script.md), this will walk you through fetching the variables from Tactical RMM and Mesh Central and running the script on your Linux devices.
+For full instructions on how to use the LinuxRMM-Script, please refer to the wiki page: [LinuxRMM-Script Wiki](/docs/linuxrmm-script.md), this will walk you through fetching the variables from Tactical RMM and Mesh Central and running the script on your Linux devices.
 
 
