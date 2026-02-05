@@ -14,8 +14,8 @@
 
 <h2 class="class"> 
 
-- 🔭 I’m currently working on [TRMM Scripts](https://github.com/Nerdy-Technician/TRMM-Scripts) & [Boiler Plates](https://github.com/Nerdy-Technician/Boiler-Plates) and NerdyStore
-
+- 🔭 I’m currently working on [Nerdy-RMMScripts](https://github.com/Nerdy-Technician/Nerdy-RMMScripts), [Boiler Plates](https://github.com/Nerdy-Technician/Boiler-Plates) and [NerdyStore
+    
 - 🌱 I’m currently learning **Intune, Endpoint Mangement and Ansible**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/Nerdy-Technician/)

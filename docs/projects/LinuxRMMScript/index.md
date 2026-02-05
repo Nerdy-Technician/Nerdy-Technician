@@ -1,4 +1,4 @@
-# 🔧 LinuxRMM-Script D
+# 🔧 LinuxRMM-Script 
 
 This is a script that helps install the linux agent for tactical rmm, using variables for meshcentral server, group, and other options.
 
