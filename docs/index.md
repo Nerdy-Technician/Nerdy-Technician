@@ -28,23 +28,23 @@ features:
   - icon: 📜
     title: Nerdy-RMMScripts
     details: A curated collection of scripts for RMM platforms to enhance monitoring, maintenance, and automation tasks.
-    link: /projects/Nerdy-RMMScripts/Index.md
+    link: /projects/Nerdy-RMMScripts/index.md
     linkText: View Project
 
   - icon: 🛍  
     title: NerdyStore
     details: A soon-to-be official 3rd party app for the Nexterm Suite, showcasing full-stack development capabilities.
-    link: /projects/NerdyStore/Index.md
+    link: /projects/NerdyStore/index.md
     linkText: View Project
 
   - icon: 🔧
     title: LinuxRMM-Script
     details: A comprehensive guide and script for installing and configuring Tactical RMM agent on Linux systems.
-    link: /projects/LinuxRMMScript/Index.md
+    link: /projects/LinuxRMMScript/index.md
     linkText: View Project
 
   - icon: 📦
     title: BoilerPlates
     details: A collection of reusable code templates and boilerplate projects for rapid development.
-    link: /projects/BoilerPlates/Index.md
+    link: /projects/BoilerPlates/index.md
     linkText: View Project  
