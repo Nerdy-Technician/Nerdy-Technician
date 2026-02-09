@@ -48,3 +48,15 @@ features:
     details: A collection of reusable code templates and boilerplate projects for rapid development.
     link: /projects/BoilerPlates/index.md
     linkText: View Project  
+
+  - icon: 🖥️
+    title: Homelab
+    details: A self-hosted rack build focused on networking, automation, and low-power compute.
+    link: /homelab.md
+    linkText: View Homelab
+
+  - icon: 📋
+    title: CV & Expertise
+    details: A comprehensive overview of my expertise, skills, and experience in IT infrastructure, automation
+    link: /cv/index.md
+    linkText: View CV

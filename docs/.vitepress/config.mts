@@ -30,7 +30,9 @@ export default defineConfig({
 
         ]
       },
+      { text: 'CV', link: '/cv/index.md' },
       { text: 'Contributions', link: '/contributions.md' },
+      { text: 'Homelab', link: '/homelab.md' },
       { text: 'About', link: '/about.md' }
     ],
     logo: 'https://avatars.githubusercontent.com/u/45691205?v=4',
@@ -123,6 +125,16 @@ export default defineConfig({
           text: '📦 BoilerPlates Docs',
           items: [
             { text: '🚀 Getting Started', link: '/docs/BoilerPlates/Getting-Started.md' },
+          ]
+        }
+      ],
+      '/cv/': [
+        {
+          text: '📋 CV & Expertise',
+          items: [
+            { text: '🕵️ Darkweb Monitoring', link: '/cv/darkweb-monitoring.md' },
+            { text: '⚙️ Automation', link: '/cv/automation.md' },
+            { text: '🔧 Builds (Intune)', link: '/cv/builds.md' }
           ]
         }
       ]
