@@ -1,3 +1,11 @@
+---
+layout: page
+head:
+  - - meta
+    - http-equiv: refresh
+      content: 0;url=https://raw.githubusercontent.com/Nerdy-Technician/NerdyStore/refs/heads/main/nexterm/NTINDEX
+---
+
 <script setup>
 import { onMounted } from 'vue'
 
