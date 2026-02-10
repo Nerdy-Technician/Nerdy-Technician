@@ -8,4 +8,4 @@ onMounted(() => {
 
 # Redirecting...
 
-If you are not redirected automatically, [click here](https://github.com/Nerdy-Technician/NerdyStore/blob/main/nexterm/NTINDEX).
+If you are not redirected automatically, [click here](https://raw.githubusercontent.com/Nerdy-Technician/NerdyStore/refs/heads/main/nexterm/NTINDEX).
