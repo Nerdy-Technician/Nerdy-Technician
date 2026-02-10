@@ -2,7 +2,7 @@
 import { onMounted } from 'vue'
 
 onMounted(() => {
-  window.location.href = 'https://github.com/Nerdy-Technician/NerdyStore/blob/main/nexterm/NTINDEX'
+  window.location.href = 'https://raw.githubusercontent.com/Nerdy-Technician/NerdyStore/refs/heads/main/nexterm/NTINDEX'
 })
 </script>
 
