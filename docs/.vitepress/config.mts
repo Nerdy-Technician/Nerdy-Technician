@@ -7,9 +7,6 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: 'https://avatars.githubusercontent.com/u/45691205?v=4' }]
   ],
-  redirects: {
-    '/NerdyScripts': 'https://github.com/Nerdy-Technician/NerdyStore/blob/main/nexterm/NTINDEX'
-  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
