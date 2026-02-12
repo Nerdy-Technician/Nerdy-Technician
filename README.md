@@ -68,13 +68,3 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nerdy-Technician?cardType=level-alternate&theme=bear&fontFamily=Ubuntu&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <br>
-
-<h3 align="center"> I am currently working at <b><a href="https://www.sedcom.net"target="_blank">Sedcom Networks</a></b> where I have pushed and utilized many scripts for Onsite and remote Use for 365 and on-premise and mastering  Intune and Endpoint management.</b></h3>   
-    
-
-<br>
-<h3 align="center">Places I have both worked ...</h3>
-<h1 align="center">
-<a href="https://www.sedcom.net/" target="_blank"> <img align="center" src="logos/sedcom-logo.png" alt="Sedcom" width="200"  /> </a>
-<a href="https://www.ormistonpark.org.uk/" target="_blank"> <img align="center" src="/logos/opa.png" alt="OPA" width="80" height="80" /> </a> 
-<a href="https://www.dvr-ltd.co.uk/" target="_blank"> <img align="center" src="https://imgs.search.brave.com/wjpRZBfNwRtIx5Ovhdd4ZDUJsg6nbzIYZxZX4X9lZPk/rs:fit:1200:500:1/g:ce/aHR0cHM6Ly9wYnMu/dHdpbWcuY29tL3By/b2ZpbGVfYmFubmVy/cy85OTkzOTA5MjQv/MTQxMzg3NDY4MC8x/NTAweDUwMA" alt="DVR LTD" width="200" height="75" /> </a> 
