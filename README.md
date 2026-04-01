@@ -22,7 +22,7 @@
 - 🌐 Check out my **[Portfolio](https://nerdytech.dev/)** for detailed projects, contributions, and documentation
 - 💬 Ask me about **Python, Docker, HomeLabs, Debain-based Distros, Powershell and bash scripting, Lego or Automation!**
 
-- 📫 How to reach me **roffo@nerdy-technician.social** or on my [Mastodon](https://masto.nerdy-technician.social/@Roffo)
+- 📫 How to reach me **roffo@nerdy-technician.social**
 
 
 </h2>
