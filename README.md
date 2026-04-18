@@ -28,6 +28,11 @@
 <br>
 <br>
 
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Nerdy-Technician?cardType=level-alternate&theme=bear&fontFamily=Ubuntu&preferLogin=false" alt="My Awesome Stats" />
+  </a>
+</p>
 
 <h3 align="center">Languages and Tools I utilize:</h3>
 
@@ -62,6 +67,5 @@
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="60" height="60" /></td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Visual Studio" width="60" height="60" /></td>
 </tr></table>
+<br>
 
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nerdy-Technician?cardType=level-alternate&theme=bear&fontFamily=Ubuntu&preferLogin=false)](https://git.io/awesome-stats-card)
