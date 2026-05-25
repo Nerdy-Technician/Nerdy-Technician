@@ -14,10 +14,10 @@ export default defineConfig({
       { 
         text: 'Projects', 
         items: [
-          { text: '📜 Nerdy-RMMScripts', link: '/projects/Nerdy-RMMScripts/Index.md' },  
-          { text: '🛍️ NerdyStore', link: '/projects/NerdyStore/Index.md' },
-          { text: '🔧 LinuxRMM-Script', link: '/projects/LinuxRMMScript/Index.md' },
-          { text: '📦 BoilerPlates', link: '/projects/BoilerPlates/Index.md' }
+          { text: '📜 Nerdy-RMMScripts', link: '/projects/Nerdy-RMMScripts/index.md' },
+          { text: '🛍️ NerdyStore', link: '/projects/NerdyStore/index.md' },
+          { text: '🔧 LinuxRMM-Script', link: '/projects/LinuxRMMScript/index.md' },
+          { text: '📦 BoilerPlates', link: '/projects/BoilerPlates/index.md' }
         ]
       },
       { 
@@ -46,7 +46,7 @@ export default defineConfig({
         {
           text: '📜 Nerdy-RMMScripts',
           items: [
-            { text: '🚀 Overview', link: '/projects/Nerdy-RMMScripts/Index.md' },
+            { text: '🚀 Overview', link: '/projects/Nerdy-RMMScripts/index.md' },
             { text: '🗂️ Documentation', link: '/docs/Nerdy-RMMScripts/Getting-Started.md' },
           ]
         }
@@ -56,7 +56,7 @@ export default defineConfig({
         {
           text: '🛍️ NerdyStore',
           items: [
-            { text: '🚀 Overview', link: '/projects/NerdyStore/Index.md' },
+            { text: '🚀 Overview', link: '/projects/NerdyStore/index.md' },
             { text: '🗂️ Documentation', link: '/docs/NerdyStore/Getting-Started.md' },
           ]
         }
@@ -65,7 +65,7 @@ export default defineConfig({
         {
           text: '🔧 LinuxRMM-Script',
           items: [
-            { text: '🚀 Overview', link: '/projects/LinuxRMMScript/Index.md' },
+            { text: '🚀 Overview', link: '/projects/LinuxRMMScript/index.md' },
             { text: '🗂️ Documentation', link: '/docs/LinuxRMMScript/Getting-Started.md' },
           ]
         }
@@ -74,7 +74,7 @@ export default defineConfig({
         {
           text: '📦 BoilerPlates',
           items: [
-            { text: '🚀 Overview', link: '/projects/BoilerPlates/Index.md' },
+            { text: '🚀 Overview', link: '/projects/BoilerPlates/index.md' },
             { text: '🗂️ Documentation', link: '/docs/BoilerPlates/Getting-Started.md' },
           ]
         }
@@ -117,14 +117,6 @@ export default defineConfig({
             { text: '3️⃣ Fetch Site and Client ID', link: '/docs/LinuxRMMScript/Step%203%20‐%20Fetch%20your%20Site%20and%20Client%20ID.md' },
             { text: '4️⃣ Get Tactical RMM Auth Token', link: '/docs/LinuxRMMScript/Step%204%20‐%20Getting%20Tactical%20RMM%20authorisation%20Token.md' },
             { text: '5️⃣ Install the Agent', link: '/docs/LinuxRMMScript/Step%205%20‐%20Install%20the%20Agent.md' },
-          ]
-        }
-      ],
-      '/docs/BoilerPlates': [
-        {
-          text: '📦 BoilerPlates Docs',
-          items: [
-            { text: '🚀 Getting Started', link: '/docs/BoilerPlates/Getting-Started.md' },
           ]
         }
       ],

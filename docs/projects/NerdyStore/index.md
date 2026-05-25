@@ -1,32 +1,50 @@
 ![NerdyStore Logo](https://github.com/Nerdy-Technician/NerdyStore/raw/main/Icons/Logo.png)
 
+**NerdyStore** is the 3rd-party storefront for the **Nexterm RMM** and **Nexploy Automation Platform**. It provides a curated, searchable catalog of apps, scripts, snippets, and themes — all browsable through a clean React GUI.
 
+---
 
-**NerdyStore** is the (almost) official 3rd party storefront of the **Nexterm RMM and the Nexploy Automation Platform**. It offers a curated selection of: 
+## 📦 What's Inside
 
-- 📦 **Nexploy Apps**  
-- 🧩 **Nexterm Scripts & Snippets**  
-- ⚙️ **Deployment Tools**  
-- 🔄 **Automation Bundles**
-
-Get Started with NerdyStore to streamline software deployment and management tasks within your Nexterm and Nexploy environments. 
+| Category | Count |
+|---|---|
+| Nexploy Apps | 74 |
+| Nexterm Scripts | 99 |
+| Nexterm Snippets | 36 |
+| Nexterm Themes | 31 |
 
 ---
 
 ## 🚀 Features
 
-- 🔎 Fully searchable catalog  
-- ⚡ One-click installation for supported tools  
-- 📚 Categorized apps, scripts, and automation bundles 
-- 🧑‍💻 Developer-ready publishing support  
-- 🔐 Optional package verification system  
+- 🔎 Fully searchable catalog with category filtering
+- 📦 **Nexploy** — Docker Compose manifests for self-hosted apps
+- 🖥️ **Nexterm Scripts** — shell automation scripts for your homelab
+- 🧩 **Nexterm Snippets** — reusable code snippets for terminal workflows
+- 🎨 **Nexterm Themes** — 31 hand-crafted terminal themes (added in v1.3.0)
+- ⚡ One-click install support for Nexterm and Nexploy
+- 🏠 Home page with live stats — apps, scripts, snippets, and themes at a glance
 
 ---
 
-## 🧪 Preview
+## 🖼️ GUI
 
-A public preview will be available soon.  
-Follow releases and community channels for updates.
+The store ships a Vite + React frontend (`gui/`) that loads directly from the repo's generated index. It features:
+
+- Sidebar navigation with section switching (Nexploy / Nexterm)
+- Per-category item counts on the home page
+- Mobile-friendly dropdown navigation
+- App logo display with fallback handling
+
+---
+
+## 📋 Versions
+
+| Version | Highlights |
+|---|---|
+| v1.3.0 | Added 31 hand-crafted Nexterm themes |
+| v1.2.x | Nexterm scripts & snippets, React GUI |
+| v1.0.0 | Initial Nexploy app catalog |
 
 ---
 
@@ -34,31 +52,19 @@ Follow releases and community channels for updates.
 
 Contributions are welcome!
 
-1. Fork the repository  
-2. Create a feature branch  
+1. Fork the repository
+2. Create a feature branch
    ```sh
    git checkout -b feature/NewFeature
-3. Commit your changes  
-4. Push your branch  
-5. Open a Pull Request 🎉  
+   ```
+3. Commit your changes
+4. Push your branch
+5. Open a Pull Request 🎉
 
 ---
 
-## 🔗 Useful Links
+## 🔗 Links
 
-- **Nexterm Documentation**: https://docs.nexterm.dev  
-- **Report a bug**: https://github.com/gnmyt/NerdyStore/issues  
-- **Request a feature**: https://github.com/gnmyt/NerdyStore/issues  
-- **Discord community**: https://dc.gnmyt.dev  
-
-
-
-
-## 🚀 Features
-- Curated collection of scripts and applications
-- Optimized for deployment via Nexterm and Nexploy
-- Streamlined software deployment and management tasks
-- Reliable source for IT professionals and system administrators
-
-## 📚 Documentation
-For more information on how to use NerdyStore, please refer to the [NerdyStore Documentation](/docs/NerdyStore/Getting-Started.md)
+- **Repository**: https://github.com/Nerdy-Technician/NerdyStore
+- **Nexterm Docs**: https://docs.nexterm.dev
+- **Report a bug / Request a feature**: https://github.com/Nerdy-Technician/NerdyStore/issues
