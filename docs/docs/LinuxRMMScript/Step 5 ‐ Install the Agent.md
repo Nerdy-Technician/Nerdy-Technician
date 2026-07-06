@@ -1,77 +1,67 @@
-Now that you have collected **all required variables** from the previous steps, you can run the install.
+<section class="linuxrmm-hero linuxrmm-hero-compact">
+  <div>
+    <p class="linuxrmm-eyebrow">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="" />
+      Step 5
+    </p>
+    <h1>Install The Agent</h1>
+    <p>
+      Run the LinuxRMM install command with your MeshCentral URL, Tactical RMM
+      API URL, client ID, site ID, auth token, and agent type.
+    </p>
+    <div class="linuxrmm-actions">
+      <a href="/docs/LinuxRMMScript/Getting-Started">Overview</a>
+      <a href="/docs/LinuxRMMScript/Step%204%20‐%20Getting%20Tactical%20RMM%20authorisation%20Token">Previous step</a>
+    </div>
+  </div>
+  <div class="linuxrmm-hero-mark" aria-hidden="true">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="" />
+  </div>
+</section>
 
----
+## Confirm Your Values
 
-## 1️⃣ Log in to Your Server
-Use SSH to connect to your server:
+<div class="linuxrmm-detail-grid">
+  <article><strong>Mesh URL</strong><span>The base MeshCentral agent URL from step 2.</span></article>
+  <article><strong>API URL</strong><span>Your Tactical RMM API URL, such as <code>https://rmm-api.example.com</code>.</span></article>
+  <article><strong>Client and site</strong><span>The IDs from step 3, entered as <code>ClientID SiteID</code>.</span></article>
+  <article><strong>Auth token</strong><span>The token copied from the manual install command in step 4.</span></article>
+  <article><strong>Agent type</strong><span>Use <code>server</code> or <code>workstation</code>.</span></article>
+  <article><strong>Script file</strong><span><code>rmmagent-linux.sh</code> should exist in your current directory.</span></article>
+</div>
 
-```bash
-ssh user@hostname
-```
-
-> 💡 If you’ve changed your SSH port, use `-p PORT`:
-> ```bash
-> ssh -p 2222 user@hostname
-> ```
-
----
-
-## 2️⃣ Verify the Install Script Exists
-Check that `rmmagent-linux.sh` is still in your current directory from **Step 1**:
-
-```bash
-ls
-```
-
-You should see `rmmagent-linux.sh` in the output. If not, re-download it.
-
----
-
-## 3️⃣ Identify Your Agent Type
-Decide whether this machine will be installed as a:
-- **`server`**  
-- **`workstation`**
-
----
-
-## 4️⃣ Run the Install Command
-Use the format below, replacing values with the **MeshCentral URL**, **RMM API URL**, **Client ID**, **Site ID**, **Auth Token**, and **Agent Type** you collected earlier.
-
-**Example:**
+## Run The Install
 
 ```bash
-sudo bash rmmagent-linux.sh install "https://mesh.example.com/meshagents?[RANDOM_KEY]" "https://rmm-api.example.com" 4 7 e88a2b5b1f6587e3bdf811f30043a083200cb5f4fcae2c5936870352b8133df5 server
+sudo bash rmmagent-linux.sh install "https://mesh.example.com/meshagents?id=YOUR_KEY" "https://rmm-api.example.com" 4 7 "AUTH_TOKEN" server
 ```
 
----
-
-## 5️⃣ Verify Installation
-A successful installation will produce output similar to:
+For cleaner output:
 
 ```bash
-Installing tacticalagent service...
-INFO[0000] Adding agent to dashboard
-WARNING: Unable to read board_asset_tag: open /sys/class/dmi/id/board_asset_tag: no such file or directory
-WARNING: Unable to read board_serial: open /sys/class/dmi/id/board_serial: no such file or directory
-WARNING: Unable to read board_vendor: open /sys/class/dmi/id/board_vendor: no such file or directory
-WARNING: Unable to read board_version: open /sys/class/dmi/id/board_version: no such file or directory
-WARNING: Unable to read board_name: open /sys/class/dmi/id/board_name: no such file or directory
-INFO[0007] Installation was successful!
-Allow a few minutes for the agent to properly display in the RMM
-Created symlink /etc/systemd/system/multi-user.target.wants/tacticalagent.service → /etc/systemd/system/tacticalagent.service.
-tacticalagent service installed and started.
-Tactical Agent Install is done
+sudo bash rmmagent-linux.sh --simple install "https://mesh.example.com/meshagents?id=YOUR_KEY" "https://rmm-api.example.com" 4 7 "AUTH_TOKEN" server
 ```
 
----
+## Verify Installation
 
-## 6️⃣ Post-Install Checks
-- Ensure your device appears in **Tactical RMM** and **MeshCentral**.
-- Confirm both services are running:
+<div class="linuxrmm-command-grid">
+  <article>
+    <h3>Tactical agent</h3>
+    <pre><code>systemctl status tacticalagent</code></pre>
+  </article>
+  <article>
+    <h3>Mesh agent</h3>
+    <pre><code>systemctl status meshagent</code></pre>
+  </article>
+</div>
 
-```bash
-systemctl status tacticalagent
-systemctl status meshagent
-```
+Allow a few minutes for the Linux device to appear in Tactical RMM and
+MeshCentral after the services start.
 
-✅ Installation complete!
+## Expected Result
+
+<div class="linuxrmm-detail-grid">
+  <article><strong>Service created</strong><span>The Tactical agent service is installed and enabled.</span></article>
+  <article><strong>Agent visible</strong><span>The endpoint appears in Tactical RMM after it checks in.</span></article>
+  <article><strong>Mesh connected</strong><span>The MeshCentral agent is installed and available for remote access.</span></article>
+</div>

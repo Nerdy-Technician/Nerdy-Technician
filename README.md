@@ -1,8 +1,8 @@
-<h1 style="font-family: 'Lobster', cursive">Good day! 👋, I'm Nerdy-Technician!</h1>
+<h1 style="font-family: 'Lobster', cursive">Good day! 👋 I'm Nerdy Technician</h1>
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/Linux%20Enthusiast-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
-    <img src="https://img.shields.io/badge/Docker%20Poweruser-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+    <img src="https://img.shields.io/badge/Docker%20Power%20User-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
     <img src="https://img.shields.io/badge/VS%20Code%20Fan-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" />
     <img src="https://img.shields.io/badge/Retro%20Gamer-8A2BE2?style=for-the-badge" alt="Retro Gamer Badge" />
     <img src="https://img.shields.io/badge/Open%20Source%20Contributor-008000?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Badge" />
@@ -14,15 +14,15 @@
 
 <h2>
 
-- 🔭 I'm currently working on [Nerdy-RMMScripts](https://github.com/Nerdy-Technician/Nerdy-RMMScripts), [Boiler Plates](https://github.com/Nerdy-Technician/Boiler-Plates) and [NerdyStore](https://github.com/Nerdy-Technician/NerdyStore)
+- 🔭 I'm currently working on [Nerdy-RMMScripts](https://github.com/Nerdy-Technician/Nerdy-RMMScripts), <img src="docs/public/logos/boilerplates.png" alt="Boiler Plates logo" width="24" /> [Boiler Plates](https://github.com/Nerdy-Technician/Boiler-Plates) and <img src="https://store.nerdytech.dev/favicon.svg" alt="NerdyStore logo" width="18" /> [NerdyStore](https://github.com/Nerdy-Technician/NerdyStore)
 
-- 🌱 I'm currently learning **Intune, Endpoint Mangement and Ansible**
+- 🌱 I'm currently learning **Intune, Endpoint Management, and Ansible**
 
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/Nerdy-Technician/)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Nerdy-Technician/)
 - 🌐 Check out my **[Portfolio](https://nerdytech.dev/)** for detailed projects, contributions, and documentation
-- 💬 Ask me about **Python, Docker, HomeLabs, Debain-based Distros, Powershell and bash scripting, Lego or Automation!**
+- 💬 Ask me about **Python, Docker, homelabs, Debian-based distros, PowerShell, Bash scripting, LEGO, or automation!**
 
-- 📫 How to reach me **roffo@nerdy-technician.social**
+- 📫 How to reach me: **[roffo@nerdy-technician.social](mailto:roffo@nerdy-technician.social)** or **[Mastodon](https://masto.nerdy-technician.social/@Roffo)**
 
 </h2>
 <br>
@@ -68,4 +68,3 @@
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Visual Studio" width="60" height="60" /></td>
 </tr></table>
 <br>
-

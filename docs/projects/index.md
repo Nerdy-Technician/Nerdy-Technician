@@ -1,12 +1,57 @@
-![Projects](My%20Projects.png)
+<section class="projects-hero">
+  <p class="projects-eyebrow">Portfolio projects</p>
+  <h1>Projects</h1>
+  <p>
+    The main tools, docs, storefronts, and automation projects I maintain or
+    actively build around. Most of this work is focused on making
+    infrastructure easier to repeat, explain, deploy, and support.
+  </p>
+</section>
 
-## 📂 Projects Index
-Welcome to the Projects Index! Here you'll find a curated list of our key projects, each designed to solve specific problems and enhance your workflow. Explore the links below to learn more about each project and how they can benefit you.
+<div class="projects-grid">
+  <a href="/projects/Nerdy-RMMScripts/">
+    <img src="/logos/nerdy-rmm-scripts.svg" alt="" />
+    <span>
+      <strong>Nerdy-RMMScripts</strong>
+      Production-ready scripts for RMM checks, monitoring, maintenance, security, inventory, and automation.
+      <em>View project</em>
+    </span>
+  </a>
+  <a href="/projects/NerdyStore/">
+    <img src="https://store.nerdytech.dev/favicon.svg" alt="" />
+    <span>
+      <strong>NerdyStore</strong>
+      A third-party storefront for Nexterm and Nexploy apps, scripts, snippets, themes, and automation bundles.
+      <em>View project</em>
+    </span>
+  </a>
+  <a href="/projects/LinuxRMMScript/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="" />
+    <span>
+      <strong>LinuxRMM-Script</strong>
+      A guided installer for Tactical RMM agents on Linux systems, with cleaner prompts and architecture detection.
+      <em>View project</em>
+    </span>
+  </a>
+  <a href="/projects/BoilerPlates/">
+    <img src="/logos/boilerplates.png" alt="" />
+    <span>
+      <strong>BoilerPlates</strong>
+      Reusable starter templates and snippets for faster, more consistent project setup.
+      <em>View project</em>
+    </span>
+  </a>
+</div>
 
-- [Nerdy-RMMScripts](Nerdy-RMMScripts/Index.md): A collection of scripts tailored for RMM platforms to streamline IT management tasks.
-- [BoilerPlates](BoilerPlates/Index.md): A repository of pre-built code templates and snippets for various programming languages and frameworks.
-- [NerdyStore](NerdyStore/index.md): the (almost) official 3rd party storefront of the **Nexterm RMM and the Nexploy Automation Platform**. It offers a curated selection of Nexploy Apps, Nexterm Scripts & Snippets, Deployment Tools, and Automation Bundles.
-- [LinuxRMMScript](LinuxRMMScript/index.md): A set of scripts for installing Tactical RMM Agent on various Linux distributions with ease.
-
-Explore each project to find tools and resources that can help you optimize your IT operations and development processes. Happy coding!
-
+<section class="projects-docs">
+  <div>
+    <h2>Start With Docs</h2>
+    <p>Jump straight into setup guides and reference pages for each project.</p>
+  </div>
+  <div class="projects-doc-links">
+    <a href="/docs/Nerdy-RMMScripts/">Nerdy-RMMScripts</a>
+    <a href="/docs/NerdyStore/">NerdyStore</a>
+    <a href="/docs/LinuxRMMScript/Getting-Started">LinuxRMM-Script</a>
+    <a href="/docs/BoilerPlates/Getting-Started">BoilerPlates</a>
+  </div>
+</section>

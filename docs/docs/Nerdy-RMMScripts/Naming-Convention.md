@@ -1,81 +1,100 @@
-![Nerdy-RMMScripts-Logo](https://github.com/Nerdy-Technician/Nerdy-RMMScripts/raw/main/Images/RepoLogo.png)
-## 📋 Script Naming Convention Guide
+<section class="rmm-hero rmm-hero-compact">
+  <div>
+    <p class="rmm-eyebrow">
+      <img src="/logos/nerdy-rmm-scripts.svg" alt="" />
+      Naming convention
+    </p>
+    <h1>Script Naming Guide</h1>
+    <p>
+      Nerdy-RMMScripts uses a predictable filename format so scripts are easy
+      to scan, search, import, and maintain across RMM platforms.
+    </p>
+    <div class="rmm-actions">
+      <a href="/docs/Nerdy-RMMScripts/Getting-Started">Getting started</a>
+      <a href="https://github.com/Nerdy-Technician/Nerdy-RMMScripts" target="_blank" rel="noopener noreferrer">View repository</a>
+    </div>
+  </div>
+  <div class="rmm-hero-mark" aria-hidden="true">
+    <img src="/logos/nerdy-rmm-scripts.svg" alt="" />
+  </div>
+</section>
 
-This repository standardizes script filenames with a leading **category prefix** followed by a **concise descriptive title** for consistency, clarity, and easy identification.
+## Filename Format
 
----
-
-## 🎯 Naming Format
-
-```
+```text
 <Category> - <Descriptive Title>.<ext>
 ```
 
-**Examples:**
-- `Monitor - CPU Usage.sh`
-- `Security - Firewall Status.sh`
-- `Agent - Wazuh Update.ps1`
-- `Maintain - Disk Clean.bat`
+<div class="rmm-example-grid">
+  <code>Monitor - CPU Usage.sh</code>
+  <code>Security - Firewall Status.sh</code>
+  <code>Agent - Wazuh Update.ps1</code>
+  <code>Maintain - Disk Clean.bat</code>
+</div>
 
-### ℹ️ Key Points
-- ✅ **Extensions preserved**: `.sh`, `.ps1`, `.bat`, etc.
-- ✅ **Spaces used**: For readability (no underscores or dashes in title)
-- ✅ **Consistent categorization**: Single prefix per script
-- ✅ **Standardized formatting**: ` - ` separator between category and title
+## Rules
 
----
+<div class="rmm-checklist">
+  <span>Keep the original file extension</span>
+  <span>Use spaces for readable titles</span>
+  <span>Use one clear category prefix</span>
+  <span>Separate category and title with <code> - </code></span>
+</div>
 
-## 📚 Category Reference
+## Category Reference
 
-| 🏷️ Category | 📖 Purpose | 💡 Examples |
-|--------------|-----------|------------|
-| **✅ Check** | One-off status/health verification tests | Latency, reachability, service active, connectivity |
-| **📊 Monitor** | Ongoing trends & resource metrics | CPU/RAM/load/bandwidth/IO/uptime trends |
-| **🔍 Audit** | Security & configuration enumeration | Users, ports, cron diff, integrity checks |
-| **📦 Collect** | Inventory & general data gathering | BIOS info, system info, domain, installed programs |
-| **💾 Software Management** | Install/update/package state & repo health | Package updates, repo status, broken packages |
-| **🔐 Security** | Security enforcement or provisioning | Firewall setup, access controls, hardening |
-| **🌐 Network** | Network diagnostics & configuration | Interfaces, routes, DNS, connectivity |
-| **🤖 Agent** | Management/monitoring agent status | Mesh, Wazuh, TRMM, Patchmon, Remotely |
-| **🧹 Maintain** | Cleanup & maintenance tasks | Disk cleanup, kernel prune, temp files, spooler |
-| **✨ Customize** | System personalization | Bashrc modifications, environment setup |
-| **⏰ Cron** | Crontab entry & scheduling checks | Cron presence, scheduling verification |
-| **🐳 Image** | Container image hygiene | Staleness, dangling images |
-| **🖥️ OS** | Operating system configuration | DNS config, system settings |
+<div class="rmm-category-list">
+  <article><strong>Check</strong><span>One-off status and health verification tests.</span></article>
+  <article><strong>Monitor</strong><span>Ongoing resource, uptime, trend, or metric checks.</span></article>
+  <article><strong>Audit</strong><span>Security, configuration, and compliance enumeration.</span></article>
+  <article><strong>Collect</strong><span>Inventory and general data gathering.</span></article>
+  <article><strong>Software Management</strong><span>Package install, update, repo, and software state tasks.</span></article>
+  <article><strong>Security</strong><span>Hardening, firewall, access control, and enforcement workflows.</span></article>
+  <article><strong>Network</strong><span>Routes, DNS, interfaces, connectivity, and diagnostics.</span></article>
+  <article><strong>Agent</strong><span>Management and monitoring agent status or maintenance.</span></article>
+  <article><strong>Maintain</strong><span>Cleanup, repair, pruning, and routine maintenance.</span></article>
+  <article><strong>Customize</strong><span>Environment, profile, shell, or personalization changes.</span></article>
+  <article><strong>Cron</strong><span>Crontab, scheduled task, and automation schedule checks.</span></article>
+  <article><strong>Image</strong><span>Container image hygiene and cleanup.</span></article>
+  <article><strong>OS</strong><span>Operating system settings and platform configuration.</span></article>
+</div>
 
----
+## Exit Codes
 
-## 📤 Exit Codes
+<div class="rmm-code-grid">
+  <article>
+    <strong>0</strong>
+    <span>OK or successful completion.</span>
+  </article>
+  <article>
+    <strong>1</strong>
+    <span>Alert, error, or failed check.</span>
+  </article>
+  <article>
+    <strong>2</strong>
+    <span>Secondary state, such as auto-recovered or warning.</span>
+  </article>
+</div>
 
-| Code | Meaning |
-|------|---------|
-| `0` | ✅ OK / Success |
-| `1` | ⚠️ Alert / Failure |
-| `2` | ℹ️ Secondary state (e.g., auto-recovered) |
+## Best Practices
 
----
+<div class="rmm-note-grid">
+  <article>
+    <h3>Be specific</h3>
+    <p>Choose the most accurate category and keep the title short enough to scan quickly.</p>
+  </article>
+  <article>
+    <h3>Use title case</h3>
+    <p>Prefer names like <code>Monitor - CPU Usage.sh</code> over vague names like <code>script.sh</code>.</p>
+  </article>
+  <article>
+    <h3>Test exit codes</h3>
+    <p>Make sure your RMM receives clear success, alert, and warning states.</p>
+  </article>
+</div>
 
-## 🚀 Category Selection Guide
+## Choosing Between Similar Categories
 
-**Choose the most specific category** for your script. When ambiguous:
-- 📦 Use **`Collect -`** for pure inventory and data gathering
-- 🔍 Use **`Audit -`** for security-relevant listings and configurations
-
--
-## 💡 Best Practices
-
-✅ **DO:**
-- Use the standardized category prefix for all new scripts
-- Choose the **most specific category** available
-- Keep titles concise but descriptive (2-4 words typically)
-- Use title case for readability: `Monitor - CPU Usage.sh`
-- Test script exit codes before deployment
-
-❌ **DON'T:**
-- Mix naming conventions (old/new formats in same directory)
-- Use underscores or excessive dashes in titles
-- Create ambiguous category names
-- Ignore exit code standardization
-- Use vague or generic titles like "Script.sh" or "Check.sh"
-
-
+Use `Collect -` for pure inventory and data gathering. Use `Audit -` when the
+script is security-relevant, checks configuration drift, or produces reviewable
+compliance information.

@@ -1,70 +1,90 @@
-![NerdyStore Logo](https://github.com/Nerdy-Technician/NerdyStore/raw/main/Icons/Logo.png)
+<section class="store-hero">
+  <div>
+    <p class="store-eyebrow">
+      <img src="https://store.nerdytech.dev/favicon.svg" alt="" />
+      Nexterm and Nexploy catalog
+    </p>
+    <h1>NerdyStore</h1>
+    <p>
+      A third-party storefront for Nexterm and Nexploy apps, scripts, snippets,
+      themes, deployment tools, and automation bundles.
+    </p>
+    <div class="store-actions">
+      <a href="https://store.nerdytech.dev/" target="_blank" rel="noopener noreferrer">View live store</a>
+      <a href="/docs/NerdyStore/">Read docs</a>
+      <a href="https://github.com/Nerdy-Technician/NerdyStore" target="_blank" rel="noopener noreferrer">View repository</a>
+    </div>
+  </div>
+  <div class="store-hero-mark" aria-hidden="true">
+    <img src="https://store.nerdytech.dev/favicon.svg" alt="" />
+  </div>
+</section>
 
-**NerdyStore** is the 3rd-party storefront for the **Nexterm RMM** and **Nexploy Automation Platform**. It provides a curated, searchable catalog of apps, scripts, snippets, and themes — all browsable through a clean React GUI.
+<section class="store-stats" aria-label="NerdyStore catalog counts">
+  <div>
+    <strong>74</strong>
+    <span>Nexploy apps</span>
+  </div>
+  <div>
+    <strong>99</strong>
+    <span>Nexterm scripts</span>
+  </div>
+  <div>
+    <strong>36</strong>
+    <span>Nexterm snippets</span>
+  </div>
+  <div>
+    <strong>31</strong>
+    <span>Nexterm themes</span>
+  </div>
+</section>
 
----
+## What It Provides
 
-## 📦 What's Inside
+<div class="store-steps">
+  <article>
+    <span>1</span>
+    <h3>Catalog</h3>
+    <p>Apps, scripts, snippets, themes, and automation bundles are grouped for easy browsing.</p>
+  </article>
+  <article>
+    <span>2</span>
+    <h3>Search</h3>
+    <p>The React GUI supports category filtering and searchable catalog views.</p>
+  </article>
+  <article>
+    <span>3</span>
+    <h3>Install</h3>
+    <p>Items are structured for contributor-friendly install and integration workflows.</p>
+  </article>
+</div>
 
-| Category | Count |
-|---|---|
-| Nexploy Apps | 74 |
-| Nexterm Scripts | 99 |
-| Nexterm Snippets | 36 |
-| Nexterm Themes | 31 |
+## Useful Links
 
----
-
-## 🚀 Features
-
-- 🔎 Fully searchable catalog with category filtering
-- 📦 **Nexploy** — Docker Compose manifests for self-hosted apps
-- 🖥️ **Nexterm Scripts** — shell automation scripts for your homelab
-- 🧩 **Nexterm Snippets** — reusable code snippets for terminal workflows
-- 🎨 **Nexterm Themes** — 31 hand-crafted terminal themes (added in v1.3.0)
-- ⚡ One-click install support for Nexterm and Nexploy
-- 🏠 Home page with live stats — apps, scripts, snippets, and themes at a glance
-
----
-
-## 🖼️ GUI
-
-The store ships a Vite + React frontend (`gui/`) that loads directly from the repo's generated index. It features:
-
-- Sidebar navigation with section switching (Nexploy / Nexterm)
-- Per-category item counts on the home page
-- Mobile-friendly dropdown navigation
-- App logo display with fallback handling
-
----
-
-## 📋 Versions
-
-| Version | Highlights |
-|---|---|
-| v1.3.0 | Added 31 hand-crafted Nexterm themes |
-| v1.2.x | Nexterm scripts & snippets, React GUI |
-| v1.0.0 | Initial Nexploy app catalog |
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-   ```sh
-   git checkout -b feature/NewFeature
-   ```
-3. Commit your changes
-4. Push your branch
-5. Open a Pull Request 🎉
-
----
-
-## 🔗 Links
-
-- **Repository**: https://github.com/Nerdy-Technician/NerdyStore
-- **Nexterm Docs**: https://docs.nexterm.dev
-- **Report a bug / Request a feature**: https://github.com/Nerdy-Technician/NerdyStore/issues
+<div class="store-link-grid">
+  <a href="/docs/NerdyStore/">
+    <img src="https://store.nerdytech.dev/favicon.svg" alt="" />
+    <span>
+      <strong>Documentation</strong>
+      Learn how the catalog is structured and maintained.
+    </span>
+  </a>
+  <a href="https://store.nerdytech.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://store.nerdytech.dev/favicon.svg" alt="" />
+    <span>
+      <strong>Live Store</strong>
+      Browse the current public storefront.
+    </span>
+  </a>
+  <a href="https://github.com/Nerdy-Technician/NerdyStore" target="_blank" rel="noopener noreferrer">
+    <span class="store-github-icon" aria-hidden="true">
+      <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
+      </svg>
+    </span>
+    <span>
+      <strong>Repository</strong>
+      Open source catalog, GUI, issues, and releases.
+    </span>
+  </a>
+</div>

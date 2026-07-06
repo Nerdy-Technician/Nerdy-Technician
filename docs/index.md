@@ -3,60 +3,70 @@
 layout: home
 
 hero:
-  name: "Nerdy Technician's"
-  text: "Portfolio"
-  tagline: 🔒 Because Real Nerds Selfhost
+  name: "Nerdy Technician"
+  text: "Infrastructure automation, self-hosting, and practical docs"
+  tagline: 🔒 Because real nerds self-host, document well, and share what works.
 
   actions:
     - theme: brand
       text: 🚀 Explore Projects
-      link: /projects/index.md
+      link: /projects/
       type: primary
     - theme: alt
       text: 🤝 Contributions
-      link: /contributions.md
+      link: /contributions
     - theme: alt
-      text: 👨‍💻 About Me
-      link: /about.md
+      text: 📋 View CV
+      link: /cv/
 
   image:
     src: https://avatars.githubusercontent.com/u/45691205?v=4
-    alt: Nerdy-Technician Avatar
+    alt: Nerdy Technician logo
 
 
 features:
-  - icon: 📜
+  - icon:
+      src: /logos/nerdy-rmm-scripts.svg
+      alt: Nerdy-RMMScripts logo
     title: Nerdy-RMMScripts
-    details: A curated collection of scripts for RMM platforms to enhance monitoring, maintenance, and automation tasks.
-    link: /projects/Nerdy-RMMScripts/index.md
+    details: Production-ready scripts for checks, monitoring, maintenance, security, software management, and RMM automation.
+    link: /projects/Nerdy-RMMScripts/
     linkText: View Project
 
-  - icon: 🛍  
+  - icon:
+      src: https://store.nerdytech.dev/favicon.svg
+      alt: NerdyStore logo
     title: NerdyStore
-    details: A soon-to-be official 3rd party app for the Nexterm Suite, showcasing full-stack development capabilities.
-    link: /projects/NerdyStore/index.md
+    details: A third-party storefront for the Nexterm and Nexploy ecosystem, with apps, scripts, snippets, and themes.
+    link: /projects/NerdyStore/
     linkText: View Project
 
-  - icon: 🔧
+  - icon:
+      src: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
+      alt: Tux Linux logo
     title: LinuxRMM-Script
-    details: A comprehensive guide and script for installing and configuring Tactical RMM agent on Linux systems.
-    link: /projects/LinuxRMMScript/index.md
+    details: A guided Linux installer for Tactical RMM agents, with clearer prompts, logging, and architecture detection.
+    link: /projects/LinuxRMMScript/
     linkText: View Project
 
-  - icon: 📦
+  - icon:
+      src: /logos/boilerplates.png
+      alt: BoilerPlates logo
     title: BoilerPlates
-    details: A collection of reusable code templates and boilerplate projects for rapid development.
-    link: /projects/BoilerPlates/index.md
-    linkText: View Project  
+    details: Reusable starter templates and snippets for faster, more consistent project setup.
+    link: /projects/BoilerPlates/
+    linkText: View Project
 
-  - icon: 🖥️
+  - icon:
+      src: /logos/homelab.png
+      alt: Homelab logo
     title: Homelab
-    details: A self-hosted rack build focused on networking, automation, and low-power compute.
-    link: /homelab.md
+    details: A compact self-hosted rack build focused on tidy networking, automation, and low-power compute.
+    link: /homelab
     linkText: View Homelab
 
   - icon: 📋
     title: CV & Expertise
-    details: A comprehensive overview of my expertise, skills, and experience in IT infrastructure, automation
-    link: /cv/index.md
+    details: Practical experience across endpoint management, automation, systems deployment, and security awareness.
+    link: /cv/
     linkText: View CV

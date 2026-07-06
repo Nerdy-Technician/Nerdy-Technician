@@ -1,38 +1,86 @@
 ---
-title: Nerdy Technician's CV
+title: Nerdy Technician CV
 ---
-<div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
-  <img src="https://avatars.githubusercontent.com/u/45691205?v=4" alt="Profile Picture" width="120" height="120" style="border-radius: 50%;">
+
+<section class="cv-hero">
+  <img src="https://avatars.githubusercontent.com/u/45691205?v=4" alt="Nerdy Technician avatar" />
   <div>
-    <h1 style="margin: 0;">Nerdy Technician's CV</h1>
-    <p style="margin: 5px 0 0 0; font-size: 1.1em;">A comprehensive overview of my expertise, skills, and experience in IT infrastructure, automation, and security.</p>
+    <p class="cv-eyebrow">Infrastructure, automation, and endpoint management</p>
+    <h1>Nerdy Technician CV</h1>
+    <p>
+      Practical IT experience across self-hosting, automation, endpoint
+      management, Microsoft 365, Linux and Windows administration, and security
+      awareness.
+    </p>
   </div>
+</section>
+
+<section class="cv-stats" aria-label="CV highlights">
+  <div>
+    <strong>Automation</strong>
+    <span>Scripts, RMM workflows, remediation, and repeatable operations.</span>
+  </div>
+  <div>
+    <strong>Endpoint</strong>
+    <span>Intune, Autopilot, compliance, app deployment, and device builds.</span>
+  </div>
+  <div>
+    <strong>Security</strong>
+    <span>Dark web monitoring, phishing simulation, reporting, and response.</span>
+  </div>
+</section>
+
+<div class="cv-github-stats">
+  <a href="https://git.io/awesome-stats-card" target="_blank" rel="noopener noreferrer">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Nerdy-Technician?cardType=level-alternate&theme=bear&fontFamily=Ubuntu&preferLogin=false" alt="Nerdy Technician GitHub stats" />
+  </a>
 </div>
 
-## Introduction
+## Core Areas
 
->  Hey there im the Nerdy Technician, a passionate IT professional with a knack for self-hosting, automation, and security. With a strong background in infrastructure management, linux and windows administration, and a keen interest in Darkweb monitoring, I thrive on building efficient systems and uncovering hidden insights. This CV highlights my core competencies, technical skills, and detailed experience across various domains in IT.
+<div class="cv-link-grid">
+  <a href="/cv/darkweb-monitoring">
+    <span>01</span>
+    <strong>Dark Web Monitoring</strong>
+    <em>Credential exposure, phishing awareness, reporting, and client response workflows.</em>
+  </a>
+  <a href="/cv/automation">
+    <span>02</span>
+    <strong>Infrastructure & Automation</strong>
+    <em>RMM automation, scripting, platform integration, and operational tooling.</em>
+  </a>
+  <a href="/cv/builds">
+    <span>03</span>
+    <strong>Builds & Intune</strong>
+    <em>Autopilot, device compliance, app deployment, and modern endpoint management.</em>
+  </a>
+</div>
 
+## Technical Skills
 
-
-## 💼 Core Competencies
-
-| Category | Expertise |
-|----------|-----------|
-| **🕵️ Darkweb Monitoring** | [Darkweb Monitoring](/cv/darkweb-monitoring.md) |
-| **⚙️ Infrastructure & Automation** | [Automation](/cv/automation.md) |
-| **🔧 Systems Deployment** | [Builds (Intune)](/cv/builds.md) |
-
----
-
-## 🛠️ Technical Skills
-
-- **Operating Systems**: Windows Server, Windows Desktop, Linux
-- **Cloud & Management**: Microsoft Azure, Intune, Autopilot
-- **Scripting**: PowerShell, Bash, Python
-- **RMM & Ticketing**: Tactical RMM, Jira, Zendesk, ServiceNow
-- **Monitoring**: Prometheus, Grafana, ELK Stack, Splunk
-- **Infrastructure**: Docker, Kubernetes, Networking, Security
-
-
-
+<div class="cv-skill-grid">
+  <article>
+    <h3>Operating Systems</h3>
+    <p>Windows Server, Windows Desktop, Linux, Ubuntu, Debian.</p>
+  </article>
+  <article>
+    <h3>Cloud & Management</h3>
+    <p>Microsoft Azure, Intune, Autopilot, Microsoft 365, endpoint baselines.</p>
+  </article>
+  <article>
+    <h3>Scripting</h3>
+    <p>PowerShell, Bash, Python, remediation scripts, deployment scripts.</p>
+  </article>
+  <article>
+    <h3>Operations</h3>
+    <p>Tactical RMM, Datto RMM, Jira, Zendesk, ServiceNow, Autotask.</p>
+  </article>
+  <article>
+    <h3>Monitoring</h3>
+    <p>Prometheus, Grafana, log review, alerting, dashboarding, reporting.</p>
+  </article>
+  <article>
+    <h3>Infrastructure</h3>
+    <p>Docker, networking, security, self-hosting, documentation, deployment.</p>
+  </article>
+</div>

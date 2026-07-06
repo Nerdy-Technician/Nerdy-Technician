@@ -1,72 +1,69 @@
 ---
-title: Darkweb Monitoring & Threat Intelligence
+title: Dark Web Monitoring & Threat Intelligence
 ---
 
+<section class="cv-hero cv-hero-compact">
+  <img src="/logos/Darkweb.png" alt="" />
+  <div>
+    <p class="cv-eyebrow">Threat intelligence & awareness</p>
+    <h1>Dark Web Monitoring</h1>
+    <p>
+      Monitoring credential exposure, client risk, phishing awareness, and
+      security reporting workflows across managed environments.
+    </p>
+  </div>
+</section>
 
+## Dark Web ID By Kaseya
 
-![Darkweb Monitoring](/logos/Darkweb.png)
+<div class="cv-stats" aria-label="Dark Web ID highlights">
+  <div>
+    <strong>70+</strong>
+    <span>domains monitored for credential exposure and risk signals.</span>
+  </div>
+  <div>
+    <strong>50+</strong>
+    <span>clients covered by reporting, monitoring, and response workflows.</span>
+  </div>
+  <div>
+    <strong>24/7</strong>
+    <span>threat detection, alerting, and review of exposed data.</span>
+  </div>
+</div>
 
----
+<div class="cv-skill-grid">
+  <article><h3>Platform Administration</h3><p>Dark Web ID configuration, client onboarding, domain management, and alert tuning.</p></article>
+  <article><h3>Threat Analysis</h3><p>Reviewing exposed credentials, interpreting risk, and prioritizing remediation.</p></article>
+  <article><h3>Reporting</h3><p>Dashboards, scheduled reports, client summaries, and actionable threat alerts.</p></article>
+  <article><h3>Integration</h3><p>Autotask ticketing, IT Glue documentation, and Active Directory synchronization.</p></article>
+</div>
 
-## Darkweb ID by Kaseya
+## BullPhish ID
 
-### Overview
-Advanced threat intelligence platform for monitoring dark web forums, marketplaces, and cybercriminal networks to identify compromised credentials, data leaks, and emerging threats.
+<div class="cv-card-grid">
+  <article>
+    <h3>Phishing Simulations</h3>
+    <p>Targeted campaigns built around realistic threat patterns and user behavior.</p>
+  </article>
+  <article>
+    <h3>Security Training</h3>
+    <p>Awareness content, custom templates, and user coaching to reduce human security risk.</p>
+  </article>
+  <article>
+    <h3>Client Reviews</h3>
+    <p>Annual strategy sessions and risk reduction reviews based on simulation outcomes.</p>
+  </article>
+  <article>
+    <h3>Product Feedback</h3>
+    <p>Regular engagement with platform leadership around roadmap and feature improvements.</p>
+  </article>
+</div>
 
-### Key Accomplishments
-- **Client Portfolio**: Managing 70+ domains across 50+ clients
-- **Continuous Monitoring**: 24/7 threat detection and analysis
-- **Automated Reporting**: Custom dashboards and threat alerts
-- **Integration**: Seamless ticketing integration with Autotask for rapid remediation
-- **IT Asset Sync**: Active Directory synchronization for real-time user monitoring
+## Impact
 
-### Core Skills
-- Darkweb ID platform administration & configuration
-- Threat analysis & interpretation
-- Report automation & customization
-- Integration with IT Glue for documentation
-- Incident response coordination
-- Client training & awareness
-
-### Thought Leadership
-- Hosting webinars on darkweb monitoring best practices
-- Training clients on threat assessment and response strategies
-- Advising on proactive security measures
-
----
-
-## Bullphish ID
-
-### Overview
-Phishing simulation and security awareness platform designed to reduce human security risk through targeted simulations and training.
-
-### Key Accomplishments
-- **User Training Programs**: Comprehensive phishing awareness education
-- **Custom Simulations**: Tailored phishing campaigns based on threat landscape
-- **Client Success**: Annual strategic reviews with clients to assess risk reduction
-- **Feature Collaboration**: Regular engagement with Bullphish ID leadership on product roadmap
-
-### Core Skills
-- Bullphish ID platform administration
-- Phishing simulation design & execution
-- Custom template creation (phishing & training)
-- User behavior analysis & reporting
-- Security awareness program development
-- Client coaching & strategy
-
-### Training & Awareness
-- Building custom phishing templates to match client threat profiles
-- Developing custom training modules for different user groups
-- Annual strategy meetings with clients to align simulations with emerging threats
-- Continuous improvement based on simulation results and industry trends
-
----
-
-## Impact & Value
-
-Through darkweb monitoring and security awareness programs, I've helped organizations:
-- **Detect threats early** before they impact business operations
-- **Reduce breach risk** through proactive credential monitoring
-- **Improve security culture** via targeted user training
-- **Automate response** with integrated ticketing workflows
-- **Stay informed** on evolving threat landscape
+<div class="cv-impact-grid">
+  <span>Earlier detection of compromised credentials</span>
+  <span>Reduced breach risk through proactive monitoring</span>
+  <span>Improved security culture through targeted training</span>
+  <span>Faster response through ticketing and documentation workflows</span>
+</div>

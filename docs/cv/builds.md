@@ -2,128 +2,56 @@
 title: Builds (Intune)
 ---
 
-# 🔧 Builds (Intune)
-
-Expert in modern device management and Windows deployment using Microsoft Intune. Specializing in cloud-native endpoint management, security baselines, and zero-touch provisioning for enterprise environments.
-
-
-## ☁️ Microsoft Intune
-
-<div style="display: flex; align-items: center; gap: 15px; margin: 20px 0;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Microsoft-intune.svg/250px-Microsoft-intune.svg.png" alt="Intune" width="60" height="60">
+<section class="cv-hero cv-hero-compact">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Microsoft-intune.svg/250px-Microsoft-intune.svg.png" alt="" />
   <div>
-    <h3 style="margin: 0;">Modern Device Management</h3>
-    <p style="margin: 5px 0 0 0; font-size: 0.95em;">Cloud-native endpoint management with Autopilot, compliance, and security</p>
+    <p class="cv-eyebrow">Endpoint builds & Intune</p>
+    <h1>Builds</h1>
+    <p>
+      Modern Windows deployment and endpoint management with Microsoft Intune,
+      Autopilot, compliance policies, security baselines, and cloud-native
+      provisioning.
+    </p>
   </div>
+</section>
+
+## Core Skills
+
+<div class="cv-skill-grid">
+  <article><h3>Autopilot</h3><p>Zero-touch device provisioning, enrollment flows, and standardized build experiences.</p></article>
+  <article><h3>Compliance</h3><p>Compliance policies, conditional access alignment, and remediation workflows.</p></article>
+  <article><h3>App Deployment</h3><p>Win32 app packaging, deployment groups, install behavior, and lifecycle management.</p></article>
+  <article><h3>Security Baselines</h3><p>Endpoint hardening, attack surface reduction, encryption, and policy enforcement.</p></article>
+  <article><h3>Device Management</h3><p>Configuration profiles, update management, hardware inventory, and enrollment strategy.</p></article>
+  <article><h3>Identity</h3><p>Azure AD integration, MFA, role-based access, single sign-on, and access controls.</p></article>
 </div>
 
-**Key Accomplishments**
-- Implemented Windows Autopilot for zero-touch device provisioning
-- Configured device compliance policies and conditional access rules
-- Deployed and managed applications across multiple device groups
-- Established mobile device management (MDM) policies
-- Enabled self-service device enrollment for end users
-- Reduced device deployment time and operational overhead
+## Deployment Scenarios
 
-**Core Skills**
-- Windows Autopilot configuration
-- Device configuration profiles
-- Compliance policies & enforcement
-- Conditional access policies
-- Application deployment & management
-- Mobile Device Management (MDM)
-- Mobile Application Management (MAM)
-- Co-management with Configuration Manager
-- Azure AD integration
-- Security baselines & hardening
-
----
-
-## 🎯 Device Management Domains
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
-
-<div style="padding: 15px; background: #1e1e1e; border-radius: 8px; border-left: 4px solid #c80000;">
-  <h4>🚀 Deployment Methods</h4>
-  <ul style="margin: 10px 0; padding-left: 20px; font-size: 0.9em;">
-    <li>Autopilot provisioning</li>
-    <li>Self-service deployment</li>
-    <li>Bulk provisioning</li>
-    <li>Network-optimized deployments</li>
-    <li>Zero-touch setup</li>
-  </ul>
+<div class="cv-card-grid">
+  <article>
+    <h3>Enterprise Deployment</h3>
+    <p>Large-scale device rollout across multiple locations with standardized configuration.</p>
+  </article>
+  <article>
+    <h3>Branch Office Setup</h3>
+    <p>Network-aware deployments for remote locations with bandwidth constraints.</p>
+  </article>
+  <article>
+    <h3>Refresh Cycles</h3>
+    <p>Efficient replacement and upgrade processes with minimal user disruption.</p>
+  </article>
+  <article>
+    <h3>Self-Service Enrollment</h3>
+    <p>Cleaner device setup paths that reduce support involvement and manual touch points.</p>
+  </article>
 </div>
 
-<div style="padding: 15px; background: #1e1e1e; border-radius: 8px; border-left: 4px solid #c80000;">
-  <h4>🔐 Security & Compliance</h4>
-  <ul style="margin: 10px 0; padding-left: 20px; font-size: 0.9em;">
-    <li>Security baselines</li>
-    <li>Device encryption</li>
-    <li>Compliance policies</li>
-    <li>Conditional access</li>
-    <li>Attack surface reduction</li>
-  </ul>
+## Business Impact
+
+<div class="cv-impact-grid">
+  <span>Reduced provisioning time from hours to minutes</span>
+  <span>Improved consistency across device builds</span>
+  <span>Stronger security posture through baselines</span>
+  <span>Lower operational load for recurring deployments</span>
 </div>
-
-<div style="padding: 15px; background: #1e1e1e; border-radius: 8px; border-left: 4px solid #c80000;">
-  <h4>📱 Device Management</h4>
-  <ul style="margin: 10px 0; padding-left: 20px; font-size: 0.9em;">
-    <li>Device enrollment</li>
-    <li>Configuration profiles</li>
-    <li>App deployment</li>
-    <li>Update management</li>
-    <li>Hardware inventory</li>
-  </ul>
-</div>
-
-<div style="padding: 15px; background: #1e1e1e; border-radius: 8px; border-left: 4px solid #c80000;">
-  <h4>👥 Identity & Access</h4>
-  <ul style="margin: 10px 0; padding-left: 20px; font-size: 0.9em;">
-    <li>Azure AD integration</li>
-    <li>Conditional access policies</li>
-    <li>Multi-factor authentication</li>
-    <li>Role-based access control</li>
-    <li>Single sign-on (SSO)</li>
-  </ul>
-</div>
-
-</div>
-
----
-
-## 💡 Deployment Scenarios
-
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; margin: 20px 0;">
-
-<div style="padding: 15px; border: 2px solid #c80000; border-radius: 8px;">
-  <h4 style="color: #c80000; margin-top: 0;">📊 Enterprise Deployment</h4>
-  <p style="font-size: 0.9em; margin: 10px 0;">Large-scale device deployment across multiple locations with standardized configurations.</p>
-</div>
-
-<div style="padding: 15px; border: 2px solid #c80000; border-radius: 8px;">
-  <h4 style="color: #c80000; margin-top: 0;">🏢 Branch Office Setup</h4>
-  <p style="font-size: 0.9em; margin: 10px 0;">Network-optimized deployments for remote locations with bandwidth considerations.</p>
-</div>
-
-<div style="padding: 15px; border: 2px solid #c80000; border-radius: 8px;">
-  <h4 style="color: #c80000; margin-top: 0;">🔄 Refresh Cycles</h4>
-  <p style="font-size: 0.9em; margin: 10px 0;">Efficient device refresh and upgrade processes with minimal downtime.</p>
-</div>
-
-</div>
-
----
-
-## 🎯 Business Impact
-
-
-
-| Metric | Benefit |
-|--------|---------|
-| ⏱️ **Deployment Speed** | Reduced device provisioning time from hours to minutes |
-| 📈 **Scalability** | Support for hundreds of concurrent device deployments |
-| 🛡️ **Security** | 100% compliance with organizational security baselines |
-| 💰 **Cost Efficiency** | Streamlined deployment reduces IT labor costs |
-| 👥 **User Experience** | Zero-touch provisioning eliminates setup complexity |
-
-
