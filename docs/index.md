@@ -58,7 +58,7 @@ features:
     linkText: View Project
 
   - icon:
-      src: /logos/homelab.png
+      src: /logos/Homelab-Logo.png
       alt: Homelab logo
     title: Homelab
     details: A compact self-hosted rack build focused on tidy networking, automation, and low-power compute.

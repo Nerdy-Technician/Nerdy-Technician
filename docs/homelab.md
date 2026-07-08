@@ -5,7 +5,7 @@ title: Homelab
 <section class="homelab-hero">
   <div>
     <p class="homelab-eyebrow">
-      <img src="/logos/homelab.png" alt="" />
+      <img src="/logos/Homelab-Logo.png" alt="" />
       Personal infrastructure
     </p>
     <h1>Homelab</h1>
@@ -15,7 +15,7 @@ title: Homelab
     </p>
   </div>
   <div class="homelab-hero-mark" aria-hidden="true">
-    <img src="/logos/homelab.png" alt="" />
+    <img src="/logos/Homelab-Logo.png" alt="" />
   </div>
 </section>
 
