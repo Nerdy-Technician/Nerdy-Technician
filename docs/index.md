@@ -83,45 +83,46 @@ features:
 <section class="nt-home-band">
   <div class="nt-home-section-head">
     <p>Start Here</p>
-    <h2>Pick the path that matches what you are building.</h2>
+    <h2>Jump into the tools, scripts, and notes I actually run.</h2>
   </div>
   <div class="nt-home-quicklinks">
     <a href="/docs/">
       <span>Docs</span>
-      Setup guides, project notes, naming conventions, and repeatable workflows.
+      NerdyPress, NerdyStore, RMM scripts, Linux agent installs, and the setup notes behind them.
     </a>
     <a href="/projects/">
       <span>Projects</span>
-      Live tools, source repositories, and the ideas behind each build.
+      Browser builders, automation repos, storefront experiments, boilerplates, and live project links.
     </a>
     <a href="/homelab">
       <span>Homelab</span>
-      A compact self-hosted stack focused on practical automation and tidy operations.
+      My self-hosted services, rack notes, dashboards, remote access, and practical hosting choices.
     </a>
   </div>
 </section>
 
 <section class="nt-home-band nt-home-band-split">
   <div>
-    <p class="nt-home-kicker">Working Style</p>
-    <h2>Documentation-first infrastructure work.</h2>
+    <p class="nt-home-kicker">What This Site Is</p>
+    <h2>A working notebook for automation, self-hosting, and small useful tools.</h2>
     <p>
-      This site collects the scripts, builders, storefront notes, and operational
-      patterns that make repeatable technical work easier to share and revisit.
+      I use this space to document the things I build and maintain: RMM scripts,
+      VitePress generators, Nexterm ecosystem notes, Linux install helpers, and
+      the homelab patterns that keep it all running.
     </p>
   </div>
   <div class="nt-home-proof-grid">
     <article>
-      <strong>Automation</strong>
-      <span>RMM scripts, installers, checks, and repeatable setup helpers.</span>
+      <strong>RMM & Linux</strong>
+      <span>Tactical RMM checks, naming conventions, agent installers, and shell-first maintenance notes.</span>
     </article>
     <article>
-      <strong>Self-hosting</strong>
-      <span>Service notes, rack decisions, monitoring ideas, and deployment habits.</span>
+      <strong>NerdyPress & Docs</strong>
+      <span>VitePress site generation, project documentation, templates, and cleaner publishing workflows.</span>
     </article>
     <article>
-      <strong>Documentation</strong>
-      <span>Readable project pages, guided docs, and browser-based site generation.</span>
+      <strong>Homelab & Store</strong>
+      <span>Self-hosted dashboards, service notes, NerdyStore catalog work, and deployment experiments.</span>
     </article>
   </div>
 </section>

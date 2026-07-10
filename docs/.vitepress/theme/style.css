@@ -508,7 +508,6 @@
   --vp-nav-height: 22px;
 }
 
-.VPNavBarMenuLink[href="/homelab"]::before,
 .VPMenuLink a[href="/homelab"] span::before,
 .VPSidebar a[href="/homelab"] .text::before {
   display: inline-block;
