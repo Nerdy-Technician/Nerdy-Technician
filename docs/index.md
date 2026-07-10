@@ -26,6 +26,14 @@ hero:
 
 features:
   - icon:
+      src: /logos/nerdypress-logo.png
+      alt: NerdyPress logo
+    title: NerdyPress
+    details: A visual VitePress site generator with theme controls, page editing, integrations, and deployment workflows.
+    link: /projects/NerdyPress/
+    linkText: View Project
+
+  - icon:
       src: /logos/nerdy-rmm-scripts.svg
       alt: Nerdy-RMMScripts logo
     title: Nerdy-RMMScripts

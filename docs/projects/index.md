@@ -9,6 +9,14 @@
 </section>
 
 <div class="projects-grid">
+  <a href="/projects/NerdyPress/">
+    <img src="/logos/nerdypress-logo.png" alt="" />
+    <span>
+      <strong>NerdyPress</strong>
+      A visual VitePress site generator with theme controls, page editing, integrations, and deployment helpers.
+      <em>View project</em>
+    </span>
+  </a>
   <a href="/projects/Nerdy-RMMScripts/">
     <img src="/logos/nerdy-rmm-scripts.svg" alt="" />
     <span>
@@ -49,6 +57,7 @@
     <p>Jump straight into setup guides and reference pages for each project.</p>
   </div>
   <div class="projects-doc-links">
+    <a href="/docs/NerdyPress/">NerdyPress</a>
     <a href="/docs/Nerdy-RMMScripts/">Nerdy-RMMScripts</a>
     <a href="/docs/NerdyStore/">NerdyStore</a>
     <a href="/docs/LinuxRMMScript/Getting-Started">LinuxRMM-Script</a>

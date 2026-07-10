@@ -23,6 +23,7 @@ export default defineConfig({
         text: 'Projects',
         items: [
           { text: 'All Projects', link: '/projects/' },
+          { text: 'NerdyPress', link: '/projects/NerdyPress/' },
           { text: 'Nerdy-RMMScripts', link: '/projects/Nerdy-RMMScripts/' },
           { text: 'NerdyStore', link: '/projects/NerdyStore/' },
           { text: 'LinuxRMM-Script', link: '/projects/LinuxRMMScript/' },
@@ -32,6 +33,8 @@ export default defineConfig({
       {
         text: 'Documentation',
         items: [
+          { text: 'All Docs', link: '/docs/' },
+          { text: 'NerdyPress', link: '/docs/NerdyPress/' },
           { text: 'Nerdy-RMMScripts', link: '/docs/Nerdy-RMMScripts/' },
           { text: 'NerdyStore', link: '/docs/NerdyStore/' },
           { text: 'LinuxRMM-Script', link: '/docs/LinuxRMMScript/Getting-Started' },
@@ -51,6 +54,17 @@ export default defineConfig({
     },
 
     sidebar: {
+      '/projects/NerdyPress': [
+        {
+          text: 'NerdyPress',
+          items: [
+            { text: 'Overview', link: '/projects/NerdyPress/' },
+            { text: 'Documentation', link: '/docs/NerdyPress/' },
+            { text: 'Live App', link: 'https://press.nerdytech.dev/' },
+            { text: 'Repository', link: 'https://github.com/Nerdy-Technician/NerdyPress' },
+          ]
+        }
+      ],
       '/projects/Nerdy-RMMScripts': [
         {
           text: 'Nerdy-RMMScripts',
@@ -96,6 +110,17 @@ export default defineConfig({
           ]
         }
 
+      ],
+      '/docs/NerdyPress': [
+        {
+          text: 'NerdyPress Docs',
+          items: [
+            { text: 'Overview', link: '/docs/NerdyPress/' },
+            { text: 'Project Page', link: '/projects/NerdyPress/' },
+            { text: 'Live App', link: 'https://press.nerdytech.dev/' },
+            { text: 'Repository', link: 'https://github.com/Nerdy-Technician/NerdyPress' },
+          ]
+        }
       ],
       '/docs/Nerdy-RMMScripts': [
         {
