@@ -2598,6 +2598,19 @@
   line-height: 1.55;
 }
 
+.projects-grid .project-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 12px;
+}
+
+.projects-grid .project-badges img {
+  width: auto;
+  height: 20px;
+  border-radius: 0;
+}
+
 .projects-grid em {
   margin-top: 14px;
   color: var(--vp-c-brand-1);

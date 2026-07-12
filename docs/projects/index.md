@@ -14,6 +14,16 @@
     <span>
       <strong>NerdyPress</strong>
       A visual VitePress site generator with theme controls, page editing, integrations, and deployment helpers.
+      <span class="project-badges">
+        <img src="https://img.shields.io/github/stars/Nerdy-Technician/NerdyPress?style=flat&logo=github&color=c90000" alt="NerdyPress GitHub stars" />
+        <img src="https://img.shields.io/github/forks/Nerdy-Technician/NerdyPress?style=flat&logo=github&color=c90000" alt="NerdyPress GitHub forks" />
+        <img src="https://img.shields.io/github/issues/Nerdy-Technician/NerdyPress?style=flat&logo=github&color=c90000" alt="NerdyPress GitHub issues" />
+        <img src="https://img.shields.io/github/issues-pr/Nerdy-Technician/NerdyPress?style=flat&logo=github&color=c90000" alt="NerdyPress GitHub pull requests" />
+        <img src="https://img.shields.io/github/contributors/Nerdy-Technician/NerdyPress?style=flat&logo=github&color=c90000" alt="NerdyPress GitHub contributors" />
+        <img src="https://img.shields.io/github/license/Nerdy-Technician/NerdyPress?style=flat&color=c90000" alt="NerdyPress license" />
+        <img src="https://img.shields.io/github/last-commit/Nerdy-Technician/NerdyPress?style=flat&logo=github&color=c90000" alt="NerdyPress last commit" />
+        <img src="https://img.shields.io/github/repo-size/Nerdy-Technician/NerdyPress?style=flat&logo=github&color=c90000" alt="NerdyPress repository size" />
+      </span>
       <em>View project</em>
     </span>
   </a>
@@ -22,6 +32,16 @@
     <span>
       <strong>Nerdy-RMMScripts</strong>
       Production-ready scripts for RMM checks, monitoring, maintenance, security, inventory, and automation.
+      <span class="project-badges">
+        <img src="https://img.shields.io/github/stars/Nerdy-Technician/Nerdy-RMMScripts?style=flat&logo=github&color=c90000" alt="Nerdy-RMMScripts GitHub stars" />
+        <img src="https://img.shields.io/github/forks/Nerdy-Technician/Nerdy-RMMScripts?style=flat&logo=github&color=c90000" alt="Nerdy-RMMScripts GitHub forks" />
+        <img src="https://img.shields.io/github/issues/Nerdy-Technician/Nerdy-RMMScripts?style=flat&logo=github&color=c90000" alt="Nerdy-RMMScripts GitHub issues" />
+        <img src="https://img.shields.io/github/issues-pr/Nerdy-Technician/Nerdy-RMMScripts?style=flat&logo=github&color=c90000" alt="Nerdy-RMMScripts GitHub pull requests" />
+        <img src="https://img.shields.io/github/contributors/Nerdy-Technician/Nerdy-RMMScripts?style=flat&logo=github&color=c90000" alt="Nerdy-RMMScripts GitHub contributors" />
+        <img src="https://img.shields.io/github/license/Nerdy-Technician/Nerdy-RMMScripts?style=flat&color=c90000" alt="Nerdy-RMMScripts license" />
+        <img src="https://img.shields.io/github/last-commit/Nerdy-Technician/Nerdy-RMMScripts?style=flat&logo=github&color=c90000" alt="Nerdy-RMMScripts last commit" />
+        <img src="https://img.shields.io/github/repo-size/Nerdy-Technician/Nerdy-RMMScripts?style=flat&logo=github&color=c90000" alt="Nerdy-RMMScripts repository size" />
+      </span>
       <em>View project</em>
     </span>
   </a>
@@ -30,6 +50,16 @@
     <span>
       <strong>NerdyStore</strong>
       A third-party storefront for Nexterm and Nexploy apps, scripts, snippets, themes, and automation bundles.
+      <span class="project-badges">
+        <img src="https://img.shields.io/github/stars/Nerdy-Technician/NerdyStore?style=flat&logo=github&color=c90000" alt="NerdyStore GitHub stars" />
+        <img src="https://img.shields.io/github/forks/Nerdy-Technician/NerdyStore?style=flat&logo=github&color=c90000" alt="NerdyStore GitHub forks" />
+        <img src="https://img.shields.io/github/issues/Nerdy-Technician/NerdyStore?style=flat&logo=github&color=c90000" alt="NerdyStore GitHub issues" />
+        <img src="https://img.shields.io/github/issues-pr/Nerdy-Technician/NerdyStore?style=flat&logo=github&color=c90000" alt="NerdyStore GitHub pull requests" />
+        <img src="https://img.shields.io/github/contributors/Nerdy-Technician/NerdyStore?style=flat&logo=github&color=c90000" alt="NerdyStore GitHub contributors" />
+        <img src="https://img.shields.io/github/license/Nerdy-Technician/NerdyStore?style=flat&color=c90000" alt="NerdyStore license" />
+        <img src="https://img.shields.io/github/last-commit/Nerdy-Technician/NerdyStore?style=flat&logo=github&color=c90000" alt="NerdyStore last commit" />
+        <img src="https://img.shields.io/github/repo-size/Nerdy-Technician/NerdyStore?style=flat&logo=github&color=c90000" alt="NerdyStore repository size" />
+      </span>
       <em>View project</em>
     </span>
   </a>
@@ -38,6 +68,16 @@
     <span>
       <strong>LinuxRMM-Script</strong>
       A guided installer for Tactical RMM agents on Linux systems, with cleaner prompts and architecture detection.
+      <span class="project-badges">
+        <img src="https://img.shields.io/github/stars/Nerdy-Technician/LinuxRMM-Script?style=flat&logo=github&color=c90000" alt="LinuxRMM-Script GitHub stars" />
+        <img src="https://img.shields.io/github/forks/Nerdy-Technician/LinuxRMM-Script?style=flat&logo=github&color=c90000" alt="LinuxRMM-Script GitHub forks" />
+        <img src="https://img.shields.io/github/issues/Nerdy-Technician/LinuxRMM-Script?style=flat&logo=github&color=c90000" alt="LinuxRMM-Script GitHub issues" />
+        <img src="https://img.shields.io/github/issues-pr/Nerdy-Technician/LinuxRMM-Script?style=flat&logo=github&color=c90000" alt="LinuxRMM-Script GitHub pull requests" />
+        <img src="https://img.shields.io/github/contributors/Nerdy-Technician/LinuxRMM-Script?style=flat&logo=github&color=c90000" alt="LinuxRMM-Script GitHub contributors" />
+        <img src="https://img.shields.io/github/license/Nerdy-Technician/LinuxRMM-Script?style=flat&color=c90000" alt="LinuxRMM-Script license" />
+        <img src="https://img.shields.io/github/last-commit/Nerdy-Technician/LinuxRMM-Script?style=flat&logo=github&color=c90000" alt="LinuxRMM-Script last commit" />
+        <img src="https://img.shields.io/github/repo-size/Nerdy-Technician/LinuxRMM-Script?style=flat&logo=github&color=c90000" alt="LinuxRMM-Script repository size" />
+      </span>
       <em>View project</em>
     </span>
   </a>
@@ -46,6 +86,16 @@
     <span>
       <strong>BoilerPlates</strong>
       Reusable starter templates and snippets for faster, more consistent project setup.
+      <span class="project-badges">
+        <img src="https://img.shields.io/github/stars/Nerdy-Technician/Boiler-Plates?style=flat&logo=github&color=c90000" alt="BoilerPlates GitHub stars" />
+        <img src="https://img.shields.io/github/forks/Nerdy-Technician/Boiler-Plates?style=flat&logo=github&color=c90000" alt="BoilerPlates GitHub forks" />
+        <img src="https://img.shields.io/github/issues/Nerdy-Technician/Boiler-Plates?style=flat&logo=github&color=c90000" alt="BoilerPlates GitHub issues" />
+        <img src="https://img.shields.io/github/issues-pr/Nerdy-Technician/Boiler-Plates?style=flat&logo=github&color=c90000" alt="BoilerPlates GitHub pull requests" />
+        <img src="https://img.shields.io/github/contributors/Nerdy-Technician/Boiler-Plates?style=flat&logo=github&color=c90000" alt="BoilerPlates GitHub contributors" />
+        <img src="https://img.shields.io/github/license/Nerdy-Technician/Boiler-Plates?style=flat&color=c90000" alt="BoilerPlates license" />
+        <img src="https://img.shields.io/github/last-commit/Nerdy-Technician/Boiler-Plates?style=flat&logo=github&color=c90000" alt="BoilerPlates last commit" />
+        <img src="https://img.shields.io/github/repo-size/Nerdy-Technician/Boiler-Plates?style=flat&logo=github&color=c90000" alt="BoilerPlates repository size" />
+      </span>
       <em>View project</em>
     </span>
   </a>
