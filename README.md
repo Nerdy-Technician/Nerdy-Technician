@@ -15,7 +15,7 @@
 
 <h2>
 
-- 🔭 I'm currently working on [Nerdy-RMMScripts](https://github.com/Nerdy-Technician/Nerdy-RMMScripts), <img src="docs/public/logos/boilerplates.png" alt="Boiler Plates logo" width="24" /> [Boiler Plates](https://github.com/Nerdy-Technician/Boiler-Plates) and <img src="https://store.nerdytech.dev/favicon.svg" alt="NerdyStore logo" width="18" /> [NerdyStore](https://github.com/Nerdy-Technician/NerdyStore)
+- 🔭 I'm currently working on [Nerdy-RMMScripts](https://github.com/Nerdy-Technician/Nerdy-RMMScripts), <img src="docs/public/logos/boilerplates.png" alt="Boiler Plates logo" width="24" /> [Boiler Plates](https://github.com/Nerdy-Technician/Boiler-Plates), <img src="https://store.nerdytech.dev/favicon.svg" alt="NerdyStore logo" width="18" /> [NerdyStore](https://github.com/Nerdy-Technician/NerdyStore) and [JellyGlance](https://github.com/Nerdy-Technician/JellyGlance)
 
 - 🌱 I'm currently learning **Intune, Endpoint Management, and Ansible**
 
