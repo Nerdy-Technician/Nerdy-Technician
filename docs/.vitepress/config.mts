@@ -23,6 +23,7 @@ export default defineConfig({
         text: 'Projects',
         items: [
           { text: 'All Projects', link: '/projects/' },
+          { text: 'JellyGlance', link: '/projects/JellyGlance/' },
           { text: 'NerdyPress', link: '/projects/NerdyPress/' },
           { text: 'Nerdy-RMMScripts', link: '/projects/Nerdy-RMMScripts/' },
           { text: 'NerdyStore', link: '/projects/NerdyStore/' },
@@ -34,6 +35,7 @@ export default defineConfig({
         text: 'Documentation',
         items: [
           { text: 'All Docs', link: '/docs/' },
+          { text: 'JellyGlance', link: '/docs/JellyGlance/' },
           { text: 'NerdyPress', link: '/docs/NerdyPress/' },
           { text: 'Nerdy-RMMScripts', link: '/docs/Nerdy-RMMScripts/' },
           { text: 'NerdyStore', link: '/docs/NerdyStore/' },
@@ -55,6 +57,17 @@ export default defineConfig({
     },
 
     sidebar: {
+      '/projects/JellyGlance': [
+        {
+          text: 'JellyGlance',
+          items: [
+            { text: 'Overview', link: '/projects/JellyGlance/' },
+            { text: 'Documentation', link: '/docs/JellyGlance/' },
+            { text: 'Live Docs', link: 'https://nerdy-technician.github.io/JellyGlance/' },
+            { text: 'Repository', link: 'https://github.com/Nerdy-Technician/JellyGlance' },
+          ]
+        }
+      ],
       '/projects/NerdyPress': [
         {
           text: 'NerdyPress',
@@ -111,6 +124,17 @@ export default defineConfig({
           ]
         }
 
+      ],
+      '/docs/JellyGlance': [
+        {
+          text: 'JellyGlance Docs',
+          items: [
+            { text: 'Overview', link: '/docs/JellyGlance/' },
+            { text: 'Project Page', link: '/projects/JellyGlance/' },
+            { text: 'Live Docs', link: 'https://nerdy-technician.github.io/JellyGlance/' },
+            { text: 'Repository', link: 'https://github.com/Nerdy-Technician/JellyGlance' },
+          ]
+        }
       ],
       '/docs/NerdyPress': [
         {

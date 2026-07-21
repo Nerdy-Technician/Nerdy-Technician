@@ -26,6 +26,14 @@ hero:
 
 features:
   - icon:
+      src: /logos/jellyglance-icon.png
+      alt: JellyGlance logo
+    title: JellyGlance
+    details: A modern Jellyfin analytics and media-control dashboard for sessions, users, libraries, statistics, Arr calendars, download queues, and webhooks.
+    link: /projects/JellyGlance/
+    linkText: View Project
+
+  - icon:
       src: /logos/nerdypress-logo.png
       alt: NerdyPress logo
     title: NerdyPress

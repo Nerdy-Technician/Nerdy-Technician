@@ -4,6 +4,13 @@ Practical documentation for Nerdy Technician projects, tools, scripts, stores,
 and generated site builders.
 
 <div class="store-link-grid">
+  <a href="/docs/JellyGlance/">
+    <img src="/logos/jellyglance-icon.png" alt="" />
+    <span>
+      <strong>JellyGlance</strong>
+      Portfolio notes and links for the Jellyfin analytics dashboard, docs site, container image, and repository.
+    </span>
+  </a>
   <a href="/docs/NerdyPress/">
     <img src="/logos/nerdypress-logo.png" alt="" />
     <span>

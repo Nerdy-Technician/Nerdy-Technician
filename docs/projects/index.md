@@ -9,6 +9,24 @@
 </section>
 
 <div class="projects-grid">
+  <a href="/projects/JellyGlance/">
+    <img src="/logos/jellyglance-icon.png" alt="" />
+    <span>
+      <strong>JellyGlance</strong>
+      A modern Jellyfin analytics and media-control dashboard for sessions, users, libraries, statistics, Arr calendars, download queues, and webhooks.
+      <span class="project-badges">
+        <img src="https://img.shields.io/github/stars/Nerdy-Technician/JellyGlance?style=flat&logo=github&color=c90000" alt="JellyGlance GitHub stars" />
+        <img src="https://img.shields.io/github/forks/Nerdy-Technician/JellyGlance?style=flat&logo=github&color=c90000" alt="JellyGlance GitHub forks" />
+        <img src="https://img.shields.io/github/issues/Nerdy-Technician/JellyGlance?style=flat&logo=github&color=c90000" alt="JellyGlance GitHub issues" />
+        <img src="https://img.shields.io/github/issues-pr/Nerdy-Technician/JellyGlance?style=flat&logo=github&color=c90000" alt="JellyGlance GitHub pull requests" />
+        <img src="https://img.shields.io/github/contributors/Nerdy-Technician/JellyGlance?style=flat&logo=github&color=c90000" alt="JellyGlance GitHub contributors" />
+        <img src="https://img.shields.io/github/license/Nerdy-Technician/JellyGlance?style=flat&color=c90000" alt="JellyGlance license" />
+        <img src="https://img.shields.io/github/last-commit/Nerdy-Technician/JellyGlance?style=flat&logo=github&color=c90000" alt="JellyGlance last commit" />
+        <img src="https://img.shields.io/github/repo-size/Nerdy-Technician/JellyGlance?style=flat&logo=github&color=c90000" alt="JellyGlance repository size" />
+      </span>
+      <em>View project</em>
+    </span>
+  </a>
   <a href="/projects/NerdyPress/">
     <img src="/logos/nerdypress-logo.png" alt="" />
     <span>
