@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Lobster', cursive">Good day! 👋 I'm Nerdy Technician</h1>
+<h1 style="font-family: 'Lobster', cursive">Good day! 👋 I'm Nerdy-Technician</h1>
 <a rel="me" href="https://masto.nerdy-technician.social/@Roffo"></a>
 <br>
 <p align="center">
