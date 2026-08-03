@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Nerdy-Technician/)
 - 🌐 Check out my **[Portfolio](https://nerdytech.dev/)** for detailed projects, contributions, and documentation
-- 💬 Ask me about **Python, Docker, homelabs, Debian-based distros, PowerShell, Bash scripting, LEGO, or automation!**
+- 💬 Ask me about **Python, Docker, homelabs, Debian-based distros, PowerShell, Bash scripting or automation!**
 
 - 📫 How to reach me: **[roffo@nerdy-technician.social](mailto:roffo@nerdy-technician.social)** or **[Mastodon](https://masto.nerdy-technician.social/@Roffo)**
 
