@@ -2,14 +2,26 @@
 <a rel="me" href="https://masto.nerdy-technician.social/@Roffo"></a>
 <br>
 <p align="center">
-    <img src="https://img.shields.io/badge/Linux%20Enthusiast-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
-    <img src="https://img.shields.io/badge/Docker%20Power%20User-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
-    <img src="https://img.shields.io/badge/VS%20Code%20Fan-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" />
-    <img src="https://img.shields.io/badge/Retro%20Gamer-8A2BE2?style=for-the-badge" alt="Retro Gamer Badge" />
-    <img src="https://img.shields.io/badge/Open%20Source%20Contributor-008000?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Badge" />
-    <img src="https://img.shields.io/badge/Automation%20Ninja-FF9800?style=for-the-badge&logo=gear&logoColor=white" alt="Automation Ninja Badge" />
-    <img src="https://img.shields.io/badge/Cloud%20Explorer-4285F4?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Explorer Badge" />
-    <img src="https://img.shields.io/badge/Markdown%20Pro-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Pro Badge" />
+  <img src="https://img.shields.io/badge/Linux%20Enthusiast-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker%20Power%20User-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Automation%20Ninja-FF9800?style=for-the-badge&logo=gnubash&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/Cloud%20Explorer-4285F4?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud" />
+  <img src="https://img.shields.io/badge/Self--Hosted%20Everything-6C63FF?style=for-the-badge&logo=serverfault&logoColor=white" alt="Self Hosted" />
+  <img src="https://img.shields.io/badge/Homelab%20Tinkerer-E63946?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Homelab" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code%20Fan-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Markdown%20Pro-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/PowerShell%20Wielder-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Bash%20Scripter-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Retro%20Gamer-8A2BE2?style=for-the-badge&logo=gamejolt&logoColor=white" alt="Retro Gamer" />
+  <img src="https://img.shields.io/badge/Coffee%20Powered-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Coffee" />
+  <img src="https://img.shields.io/badge/Terminal%20Dweller-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal" />
 </p>
 
 
