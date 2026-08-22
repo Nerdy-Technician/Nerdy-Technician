@@ -31,8 +31,8 @@
 [Homarr](https://homarr.dev/) & <img src="https://github.com/jl94x4/Server-Manager-Portal/raw/main/static/logo.png" alt="Serbeer Manager Portal logo" width="24" /> [Server Portal Manager](https://github.com/jl94x4/Server-Manager-Portal)
 - 🌱 I'm currently learning **Intune, Endpoint Management, and Ansible**
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Nerdy-Technician/)
-- 🌐 Check out my **[Portfolio](https://nerdytech.dev/)** for detailed projects, contributions, and documentation
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Nerdy-Technician/) 
+- 🌐 Check out my **[Portfolio](https://nerdytech.dev/)** for detailed projects, contributions, and documentation.
 - 💬 Ask me about **Python, Docker, homelabs, Debian-based distros, PowerShell, Bash scripting or automation!**
 
 - 📫 How to reach me: **[roffo@nerdy-technician.social](mailto:roffo@nerdy-technician.social)** or **[Mastodon](https://masto.nerdy-technician.social/@Roffo)**
