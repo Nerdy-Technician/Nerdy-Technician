@@ -16,11 +16,12 @@
   <img src="https://img.shields.io/badge/Markdown%20Pro-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/PowerShell%20Wielder-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Bash%20Scripter-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/iFixit-0071CE?style=for-the-badge&logo=ifixit&logoColor=white" alt="iFixit" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Retro%20Gamer-8A2BE2?style=for-the-badge&logo=gamejolt&logoColor=white" alt="Retro Gamer" />
-  <img src="https://img.shields.io/badge/Coffee%20Powered-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Coffee" />
+  <img src="https://img.shields.io/badge/Tea%20Powered-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Tea" />
   <img src="https://img.shields.io/badge/Terminal%20Dweller-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal" />
 </p>
 
