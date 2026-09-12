@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Homelab%20Tinkerer-E63946?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Homelab" />
 </p>
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code%20Fan-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
