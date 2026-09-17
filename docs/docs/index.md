@@ -40,3 +40,27 @@ and generated site builders.
     </span>
   </a>
 </div>
+
+## Choose A Starting Point
+
+<div class="docs-start-grid">
+  <a href="/docs/Nerdy-RMMScripts/Getting-Started">
+    <strong>I need an automation script</strong>
+    Start with the RMM script guide, naming conventions, and issue reporting workflow.
+  </a>
+  <a href="/docs/LinuxRMMScript/Getting-Started">
+    <strong>I need to install a Linux agent</strong>
+    Follow the guided Tactical RMM installer from preparation through agent setup.
+  </a>
+  <a href="/docs/NerdyPress/">
+    <strong>I want to publish documentation</strong>
+    Learn how NerdyPress creates a complete VitePress project from the browser.
+  </a>
+</div>
+
+## A Consistent Path
+
+Project documentation is organized around the same practical questions: what is
+it, what do I need, how do I get started, how do I configure it, and what should
+I check when something goes wrong. Use the project links above to move from the
+overview into the deeper guide.

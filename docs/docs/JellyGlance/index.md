@@ -12,11 +12,18 @@ JellyGlance is my Jellyfin companion dashboard for home-server visibility and me
       See the local portfolio overview, highlights, screenshots, and project links.
     </span>
   </a>
-  <a href="https://nerdy-technician.github.io/JellyGlance/" target="_blank" rel="noopener noreferrer">
+  <a href="https://docs.jellyglance.com/" target="_blank" rel="noopener noreferrer">
     <img src="/logos/jellyglance-icon.png" alt="" />
     <span>
       <strong>JellyGlance docs</strong>
       Open the full project documentation, integrations guide, Docker notes, and screenshot gallery.
+    </span>
+  </a>
+  <a href="https://jellyglance.com/" target="_blank" rel="noopener noreferrer">
+    <img src="/logos/jellyglance-icon.png" alt="" />
+    <span>
+      <strong>JellyGlance</strong>
+      Open the live project website and dashboard.
     </span>
   </a>
   <a href="https://github.com/Nerdy-Technician/JellyGlance" target="_blank" rel="noopener noreferrer">

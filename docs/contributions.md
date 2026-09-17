@@ -73,6 +73,137 @@
   height: 20px;
   width: auto;
 }
+
+.volunteer-board {
+  margin: 34px 0 42px;
+  padding: 26px;
+  border: 1px solid rgba(201, 0, 0, 0.28);
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(201, 0, 0, 0.12), transparent 55%),
+    var(--vp-c-bg-soft);
+}
+
+.volunteer-board-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 20px;
+}
+
+.volunteer-board-header h2 {
+  margin: 0;
+  font-size: 30px;
+}
+
+.volunteer-board-header p {
+  max-width: 520px;
+  margin: 0;
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+}
+
+.volunteer-note {
+  margin: 0 0 18px;
+  padding: 10px 12px;
+  border-left: 3px solid var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-text-1);
+  font-size: 13px;
+}
+
+.volunteer-roles {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.volunteer-role {
+  padding: 18px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  background: var(--vp-c-bg);
+}
+
+.volunteer-role-top {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.volunteer-project,
+.volunteer-type {
+  color: var(--vp-c-brand-1);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.volunteer-type {
+  color: var(--vp-c-text-3);
+}
+
+.volunteer-role h3 {
+  margin: 10px 0 0;
+  color: var(--vp-c-text-1);
+  font-size: 19px;
+}
+
+.volunteer-role p {
+  margin: 8px 0 14px;
+  color: var(--vp-c-text-2);
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.volunteer-skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+
+.volunteer-skills span {
+  padding: 4px 7px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 999px;
+  color: var(--vp-c-text-2);
+  font-size: 11px;
+}
+
+.VPDoc .volunteer-role a {
+  color: var(--vp-c-brand-1);
+  font-size: 13px;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.VPDoc .volunteer-role a:hover {
+  color: var(--vp-c-brand-2);
+  text-decoration: underline;
+}
+
+@media (max-width: 720px) {
+  .volunteer-board-header,
+  .volunteer-roles {
+    grid-template-columns: 1fr;
+  }
+
+  .volunteer-board-header {
+    display: block;
+  }
+
+  .volunteer-board-header p {
+    margin-top: 10px;
+  }
+
+  .volunteer-roles {
+    display: grid;
+  }
+}
 </style>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
 
@@ -89,11 +220,11 @@
   </p>
   <div class="contrib-actions">
     <a href="https://github.com/Nerdy-Technician" target="_blank" rel="noopener noreferrer"><i class="ti ti-brand-github"></i> GitHub</a>
-    <a href="mailto:roffo@nerdy-technician.social"><i class="ti ti-mail"></i>  Email</a>
+    <a href="mailto:roffo@nerdytech.dev"><i class="ti ti-mail"></i>  Email</a>
+    <a href="/help"><i class="ti ti-users"></i> Help Projects</a>
     <a href="https://masto.nerdy-technician.social/@Roffo" target="_blank" rel="noopener noreferrer"><i class="ti ti-brand-mastodon"></i> Mastodon</a>
   </div>
 </section>
-
 
 <div class="contrib-grid">
   <article class="contrib-card">
@@ -392,7 +523,7 @@
       projects are always interesting to me.
     </p>
   </div>
-  <a href="mailto:roffo@nerdy-technician.social">Start a conversation</a>
+  <a href="mailto:roffo@nerdytech.dev">Start a conversation</a>
 </section>
 
 </div>

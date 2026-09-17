@@ -11,7 +11,8 @@
       calendars, download queues, webhooks, backups, and role-based access.
     </p>
     <div class="store-actions">
-      <a href="https://nerdy-technician.github.io/JellyGlance/" target="_blank" rel="noopener noreferrer">Open docs</a>
+      <a href="https://jellyglance.com/" target="_blank" rel="noopener noreferrer">Open project</a>
+      <a href="https://docs.jellyglance.com/" target="_blank" rel="noopener noreferrer">Open docs</a>
       <a href="/docs/JellyGlance/">Portfolio notes</a>
       <a href="https://github.com/Nerdy-Technician/JellyGlance" target="_blank" rel="noopener noreferrer">View repository</a>
     </div>
@@ -84,11 +85,18 @@
 ## Useful Links
 
 <div class="store-link-grid">
-  <a href="https://nerdy-technician.github.io/JellyGlance/" target="_blank" rel="noopener noreferrer">
+  <a href="https://docs.jellyglance.com/" target="_blank" rel="noopener noreferrer">
     <img src="/logos/jellyglance-icon.png" alt="" />
     <span>
       <strong>Live documentation</strong>
       Read the full JellyGlance guide, integrations page, screenshots, and operations notes.
+    </span>
+  </a>
+  <a href="https://jellyglance.com/" target="_blank" rel="noopener noreferrer">
+    <img src="/logos/jellyglance-icon.png" alt="" />
+    <span>
+      <strong>Live project</strong>
+      Open the JellyGlance project website and dashboard.
     </span>
   </a>
   <a href="https://github.com/Nerdy-Technician/JellyGlance" target="_blank" rel="noopener noreferrer">

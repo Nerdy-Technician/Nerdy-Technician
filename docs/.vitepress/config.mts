@@ -12,42 +12,38 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#c80000' }],
     ['meta', { property: 'og:title', content: 'Nerdy Technician' }],
     ['meta', { property: 'og:description', content: 'Infrastructure automation, self-hosting projects, and practical documentation.' }],
-    ['meta', { property: 'og:type', content: 'website' }]
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:image', content: 'https://avatars.githubusercontent.com/u/45691205?v=4' }],
+    ['meta', { name: 'twitter:card', content: 'summary' }],
+    ['meta', { name: 'twitter:image', content: 'https://avatars.githubusercontent.com/u/45691205?v=4' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/about' },
       {
         text: 'Projects',
         items: [
-          { text: 'All Projects', link: '/projects/' },
+          { text: 'Projects Catalogue', link: '/projects/' },
           { text: 'JellyGlance', link: '/projects/JellyGlance/' },
+          { text: 'SnippyCode', link: '/projects/SnippyCode/' },
           { text: 'NerdyPress', link: '/projects/NerdyPress/' },
-          { text: 'Nerdy-RMMScripts', link: '/projects/Nerdy-RMMScripts/' },
-          { text: 'NerdyStore', link: '/projects/NerdyStore/' },
-          { text: 'LinuxRMM-Script', link: '/projects/LinuxRMMScript/' },
-          { text: 'BoilerPlates', link: '/projects/BoilerPlates/' }
+          { text: 'NerdyStore', link: '/projects/NerdyStore/' }
         ]
       },
-      {
-        text: 'Documentation',
-        items: [
-          { text: 'All Docs', link: '/docs/' },
-          { text: 'JellyGlance', link: '/docs/JellyGlance/' },
-          { text: 'NerdyPress', link: '/docs/NerdyPress/' },
-          { text: 'Nerdy-RMMScripts', link: '/docs/Nerdy-RMMScripts/' },
-          { text: 'NerdyStore', link: '/docs/NerdyStore/' },
-          { text: 'LinuxRMM-Script', link: '/docs/LinuxRMMScript/Getting-Started' },
-          { text: 'BoilerPlates', link: '/docs/BoilerPlates/Getting-Started' }
-
-        ]
-      },
-      { text: 'Blog', link: '/blog' },
-      { text: 'Contributions', link: '/contributions' },
+      { text: 'Docs', link: '/docs/' },
+      { text: 'Posts', link: '/posts/' },
       { text: 'Homelab', link: '/homelab' },
-      { text: 'CV', link: '/cv/' },
+      { text: 'Help', link: '/help' },
+      { text: 'Contributions', link: '/contributions' },
+      { text: 'About', link: '/about' },
+      {
+        text: 'Community',
+        items: [
+          { text: 'Blog', link: '/blog' },
+          { text: 'CV & Expertise', link: '/cv/' }
+        ]
+      }
 
     ],
     logo: 'https://avatars.githubusercontent.com/u/45691205?v=4',
@@ -63,7 +59,8 @@ export default defineConfig({
           items: [
             { text: 'Overview', link: '/projects/JellyGlance/' },
             { text: 'Documentation', link: '/docs/JellyGlance/' },
-            { text: 'Live Docs', link: 'https://nerdy-technician.github.io/JellyGlance/' },
+            { text: 'Live Docs', link: 'https://docs.jellyglance.com/' },
+            { text: 'Live Project', link: 'https://jellyglance.com/' },
             { text: 'Repository', link: 'https://github.com/Nerdy-Technician/JellyGlance' },
           ]
         }
@@ -116,6 +113,15 @@ export default defineConfig({
           ]
         }
       ],
+      '/projects/SnippyCode': [
+        {
+          text: 'SnippyCode',
+          items: [
+            { text: 'Overview', link: '/projects/SnippyCode/' },
+            { text: 'Repository', link: 'https://github.com/Nerdy-Technician/SnippyCode' },
+          ]
+        }
+      ],
       '/docs/BoilerPlates': [
         {
           text: 'BoilerPlates Docs',
@@ -131,7 +137,8 @@ export default defineConfig({
           items: [
             { text: 'Overview', link: '/docs/JellyGlance/' },
             { text: 'Project Page', link: '/projects/JellyGlance/' },
-            { text: 'Live Docs', link: 'https://nerdy-technician.github.io/JellyGlance/' },
+            { text: 'Live Docs', link: 'https://docs.jellyglance.com/' },
+            { text: 'Live Project', link: 'https://jellyglance.com/' },
             { text: 'Repository', link: 'https://github.com/Nerdy-Technician/JellyGlance' },
           ]
         }

@@ -18,6 +18,12 @@ hero:
     - theme: alt
       text: Contributions
       link: /contributions
+    - theme: alt
+      text: Read Posts
+      link: /posts/
+    - theme: alt
+      text: Get Involved
+      link: /help
 
   image:
     src: https://avatars.githubusercontent.com/u/45691205?v=4
@@ -73,64 +79,52 @@ features:
     link: /projects/BoilerPlates/
     linkText: View Project
 
-  - icon:
-      src: /logos/homelab.png
-      alt: Homelab logo
-    title: Homelab
-    details: A compact self-hosted rack build focused on tidy networking, automation, and low-power compute.
-    link: /homelab
-    linkText: View Homelab
-
   - icon: 🧰
     title: CV & Expertise
     details: Practical experience across endpoint management, automation, systems deployment, and security awareness.
     link: /cv/
     linkText: View CV
+
+  - icon:
+      src: https://github.com/Nerdy-Technician/SnippyCode/raw/main/client/public/CodeSnippy.png
+      alt: SnippyCode logo
+    title: SnippyCode
+    details: An active project currently being developed in the Nerdy Technician ecosystem.
+    link: /projects/SnippyCode/
+    linkText: View Project
 ---
 
-<section class="nt-home-band">
-  <div class="nt-home-section-head">
-    <p>Start Here</p>
-    <h2>Jump into the tools, scripts, and notes I actually run.</h2>
-  </div>
-  <div class="nt-home-quicklinks">
-    <a href="/docs/">
-      <span>Docs</span>
-      NerdyPress, NerdyStore, RMM scripts, Linux agent installs, and the setup notes behind them.
-    </a>
-    <a href="/projects/">
-      <span>Projects</span>
-      Browser builders, automation repos, storefront experiments, boilerplates, and live project links.
-    </a>
-    <a href="/homelab">
-      <span>Homelab</span>
-      My self-hosted services, rack notes, dashboards, remote access, and practical hosting choices.
-    </a>
-  </div>
-</section>
+<nav class="home-option-pills" aria-label="Explore Nerdy Technician">
+  <span class="home-option-label">Explore the site</span>
+  <a href="/projects/">Projects</a>
+  <a href="/docs/">Documentation</a>
+  <a href="/posts/">Posts</a>
+  <a href="/homelab">Homelab</a>
+  <a href="/help">Help Projects</a>
+  <a href="/contributions">Contributions</a>
+</nav>
 
-<section class="nt-home-band nt-home-band-split">
-  <div>
-    <p class="nt-home-kicker">What This Site Is</p>
-    <h2>A working notebook for automation, self-hosting, and small useful tools.</h2>
-    <p>
-      I use this space to document the things I build and maintain: RMM scripts,
-      VitePress generators, Nexterm ecosystem notes, Linux install helpers, and
-      the homelab patterns that keep it all running.
-    </p>
+<details class="home-console">
+  <summary><span class="home-console-prompt">&gt;_</span> Open site console <span class="home-console-hint">quick launch / project status</span></summary>
+  <div class="home-console-body">
+    <div class="home-console-status">
+      <span class="home-console-dot"></span>
+      <strong>NERDY TECHNICIAN / ONLINE</strong>
+      <span>8 projects indexed</span>
+    </div>
+    <div class="home-console-actions">
+      <a href="/projects/">`projects` <span>Browse the catalogue</span></a>
+      <a href="/posts/">`posts` <span>Read homelab notes</span></a>
+      <a href="/help">`help` <span>Find volunteer roles</span></a>
+      <a href="/docs/">`docs` <span>Open setup guides</span></a>
+    </div>
   </div>
-  <div class="nt-home-proof-grid">
-    <article>
-      <strong>RMM & Linux</strong>
-      <span>Tactical RMM checks, naming conventions, agent installers, and shell-first maintenance notes.</span>
-    </article>
-    <article>
-      <strong>NerdyPress & Docs</strong>
-      <span>VitePress site generation, project documentation, templates, and cleaner publishing workflows.</span>
-    </article>
-    <article>
-      <strong>Homelab & Store</strong>
-      <span>Self-hosted dashboards, service notes, NerdyStore catalog work, and deployment experiments.</span>
-    </article>
-  </div>
-</section>
+</details>
+
+<nav class="mobile-app-dock" aria-label="Quick navigation">
+  <a href="/"><span>⌂</span><small>Home</small></a>
+  <a href="/projects/"><span>◈</span><small>Projects</small></a>
+  <a href="/posts/"><span>✦</span><small>Posts</small></a>
+  <a href="/help"><span>+</span><small>Help</small></a>
+  <a href="/contributions"><span>↗</span><small>Contribute</small></a>
+</nav>
