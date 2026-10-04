@@ -8,6 +8,7 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   head: [
+    ['script', { defer: '', 'data-domain': 'nerdytech.dev', src: 'https://track.nerdytech.dev/js/script.js' }],
     ['link', { rel: 'icon', href: 'https://avatars.githubusercontent.com/u/45691205?v=4' }],
     ['meta', { name: 'theme-color', content: '#c80000' }],
     ['meta', { property: 'og:title', content: 'Nerdy Technician' }],
