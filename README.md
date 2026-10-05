@@ -41,7 +41,7 @@
 - 🌐 Check out my **[Portfolio](https://nerdytech.dev/)** for detailed projects, contributions, and documentation.
 - 💬 Ask me about **Python, Docker, homelabs, Debian-based distros, PowerShell, Bash scripting or automation!**
 
-- 📫 How to reach me: **[roffo@nerdy-technician.social](mailto:roffo@nerdy-technician.social)** or **[Mastodon](https://masto.nerdy-technician.social/@Roffo)**
+- 📫 How to reach me: **[roffo@nerdytech.dev](mailto:roffo@nerdytech.dev)** or **[Mastodon](https://masto.nerdy-technician.social/@Roffo)**
 
 </h2>
 <br>
