@@ -30,8 +30,13 @@
 
 <h2>
 
-- 🔭 I'm currently working on [Nerdy-RMMScripts](https://github.com/Nerdy-Technician/Nerdy-RMMScripts), <img src="docs/public/logos/boilerplates.png" alt="Boiler Plates logo" width="24" /> [Boiler Plates](https://github.com/Nerdy-Technician/Boiler-Plates), <img src="https://store.nerdytech.dev/favicon.svg" alt="NerdyStore logo" width="18" /> [NerdyStore](https://github.com/Nerdy-Technician/NerdyStore), <img src="https://jellyglance.com/project-logo.png" alt="JellyGlance logo" width="24" />  [JellyGlance](https://github.com/Nerdy-Technician/JellyGlance), <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/homarr.svg" alt="Homarr Logo" width="24" />
-[Homarr](https://homarr.dev/) & <img src="https://github.com/jl94x4/Server-Manager-Portal/raw/main/static/logo.png" alt="Serbeer Manager Portal logo" width="24" /> [Server Portal Manager](https://github.com/jl94x4/Server-Manager-Portal)
+- 🔭 I'm currently working on
+  - <img src="docs/public/logos/boilerplates.png" alt="Boiler Plates logo" width="24" /> [Boiler Plates](https://github.com/Nerdy-Technician/Boiler-Plates)
+  - <img src="https://store.nerdytech.dev/favicon.svg" alt="NerdyStore logo" width="18" /> [NerdyStore](https://github.com/Nerdy-Technician/NerdyStore)
+  - <img src="https://jellyglance.com/project-logo.png" alt="JellyGlance logo" width="24" />  [JellyGlance](https://github.com/Nerdy-Technician/JellyGlance) and [Docs](http://docs.jellyglance.com/)
+  - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/homarr.svg" alt="Homarr Logo" width="24" /> [Homarr](https://homarr.dev/)
+  - <img src="https://github.com/jl94x4/Server-Manager-Portal/raw/main/static/logo.png" alt="Serbeer Manager Portal logo" width="24" /> [Server Portal Manager](https://github.com/jl94x4/Server-Manager-Portal)
+  - <img src="https://guides.nerdytech.dev/assets/images/brand/nerdy-guides-mark-dark.svg?v=556ac4ab55" alt="Nerdy Guides" width="24" /> [Nerdy Guides](https://guides.nerdytech.dev/)
 - 🌱 I'm currently learning **Intune, Endpoint Management, and Ansible**
 - 🌐 Check out my **[Portfolio](https://nerdytech.dev/)** for detailed projects, contributions, and documentation.
 - 💬 Ask me about **Python, Docker, homelabs, Debian-based distros, PowerShell, Bash scripting or automation!**
