@@ -11,8 +11,16 @@
 
 ## ⚡ About me
 
-- 🔭 I'm currently working on <img src="docs/public/logos/nerdy-rmm-scripts.svg" alt="Nerdy-RMMScripts logo" width="20" /> [Nerdy-RMMScripts](https://github.com/Nerdy-Technician/Nerdy-RMMScripts), <img src="docs/public/logos/boilerplates.png" alt="Boiler Plates logo" width="20" /> [Boiler Plates](https://github.com/Nerdy-Technician/Boiler-Plates), <img src="https://store.nerdytech.dev/favicon.svg" alt="NerdyStore logo" width="18" /> [NerdyStore](https://github.com/Nerdy-Technician/NerdyStore) and <img src="https://jellyglance.com/project-logo.png" alt="JellyGlance logo" width="20" /> [JellyGlance](https://github.com/Nerdy-Technician/JellyGlance)
-- 🤝 Contributing to <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/homarr.svg" alt="Homarr logo" width="20" /> [Homarr](https://homarr.dev/) and <img src="https://github.com/jl94x4/Server-Manager-Portal/raw/main/static/logo.png" alt="Server-Manager-Portal logo" width="20" /> [Server-Manager-Portal](https://github.com/jl94x4/Server-Manager-Portal)
+- 🔭 I'm currently working on 
+> <img src="docs/public/logos/nerdy-rmm-scripts.svg" alt="Nerdy-RMMScripts logo" width="20" /> [Nerdy-RMMScripts](https://github.com/Nerdy-Technician/Nerdy-RMMScripts) <br>
+> <img src="docs/public/logos/boilerplates.png" alt="Boiler Plates logo" width="20" /> [Boiler Plates](https://github.com/Nerdy-Technician/Boiler-Plates) <br>
+> <img src="https://store.nerdytech.dev/favicon.svg" alt="NerdyStore logo" width="20" /> [NerdyStore](https://github.com/Nerdy-Technician/NerdyStore) <br>
+> <img src="https://jellyglance.com/project-logo.png" alt="JellyGlance logo" width="20" /> [JellyGlance](https://github.com/Nerdy-Technician/JellyGlance) <br>
+> <img src="https://github.com/Nerdy-Technician/SnippyCode/raw/main/client/public/CodeSnippy.png" alt="Snippycode Logo" width="20"/> [SnippyCode](https://github.com/Nerdy-Technician/SnippyCode) <br>
+> <img src="https://github.com/Nerdy-Technician/MailBeacon/raw/main/docs/logo-with-title-dark.svg" alt="MailBeacon Logo" width="20"/> [MailBeacon](https://github.com/Nerdy-Technician/MailBeacon) <br>
+
+
+- 🤝 Contributing to <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/homarr.svg" alt="Homarr logo" width="20" /> [Homarr](https://homarr.dev/) and <img src="https://github.com/jl94x4/Server-Manager-Portal/raw/main/static/logo.png" alt="Server-Manager-Portal logo" width="20" /> [Stream Pilot](https://github.com/jl94x4/StreamPilot)
 - 🌱 I'm currently learning **Intune, Endpoint Management, and Ansible**
 - 🌐 Check out my **[Portfolio](https://nerdytech.dev/)** for detailed projects, contributions, and documentation
 - 💬 Ask me about **Python, Docker, homelabs, Debian-based distros, PowerShell, Bash scripting or automation!**
