@@ -37,7 +37,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://jellyglance.com/project-logo.png" alt="JellyGlance logo" width="20" /> <b><a href="https://github.com/Nerdy-Technician/JellyGlance">JellyGlance</a></b><br>Admin dashboard for Jellyfin servers.<br><br><img src="https://img.shields.io/github/stars/Nerdy-Technician/JellyGlance?style=flat-square&color=C90000&labelColor=1E1E1E" /> · <a href="https://jellyglance.com">Website</a></td>
+<td width="50%" valign="top"><img src="https://jellyglance.com/project-logo.png" alt="JellyGlance logo" width="20" /> <b><a href="https://github.com/JellyGlance/Server">JellyGlance</a></b><br>Admin dashboard for Jellyfin servers.<br><br><img src="https://img.shields.io/github/stars/JellyGlance/Server?style=flat-square&color=C90000&labelColor=1E1E1E" /> · <a href="https://jellyglance.com">Website</a></td>
 <td width="50%" valign="top"><img src="docs/public/logos/nerdy-rmm-scripts.svg" alt="Nerdy-RMMScripts logo" width="20" /> <b><a href="https://github.com/Nerdy-Technician/Nerdy-RMMScripts">Nerdy-RMMScripts</a></b><br>Ready-to-use scripts for RMM platforms.<br><br><img src="https://img.shields.io/github/stars/Nerdy-Technician/Nerdy-RMMScripts?style=flat-square&color=C90000&labelColor=1E1E1E" /></td>
 </tr>
 <tr>
