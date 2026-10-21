@@ -18,6 +18,7 @@
 > <img src="https://jellyglance.com/project-logo.png" alt="JellyGlance logo" width="20" /> [JellyGlance](https://github.com/Nerdy-Technician/JellyGlance) <br>
 > <img src="https://github.com/Nerdy-Technician/SnippyCode/raw/main/client/public/CodeSnippy.png" alt="Snippycode Logo" width="20"/> [SnippyCode](https://github.com/Nerdy-Technician/SnippyCode) <br>
 > <img src="https://github.com/Nerdy-Technician/MailBeacon/raw/main/docs/logo-with-title-dark.svg" alt="MailBeacon Logo" width="20"/> [MailBeacon](https://github.com/Nerdy-Technician/MailBeacon) <br>
+<img src="https://guides.nerdytech.dev/assets/images/brand/nerdy-guides-mark-dark.svg?v=b3d8179538" alt="NerdyGuides Logo" width="20"/> [Nerdyguides](https://guides.nerdytech.dev)
 
 
 - 🤝 Contributing to <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/homarr.svg" alt="Homarr logo" width="20" /> [Homarr](https://homarr.dev/) and <img src="https://github.com/jl94x4/Server-Manager-Portal/raw/main/static/logo.png" alt="Server-Manager-Portal logo" width="20" /> [Stream Pilot](https://github.com/jl94x4/StreamPilot)
