@@ -3,7 +3,7 @@ title: Nerdy Technician CV
 ---
 
 <section class="cv-hero">
-  <img src="https://avatars.githubusercontent.com/u/45691205?v=4" alt="Nerdy Technician avatar" />
+  <img src="/avatar-nt.webp" alt="Nerdy Technician avatar" />
   <div>
     <p class="cv-eyebrow">Infrastructure, automation, and endpoint management</p>
     <h1>Nerdy Technician CV</h1>

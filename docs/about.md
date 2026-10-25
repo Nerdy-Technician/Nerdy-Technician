@@ -1,5 +1,5 @@
 <section class="about-hero">
-  <img src="https://avatars.githubusercontent.com/u/45691205?v=4" alt="Nerdy Technician avatar" />
+  <img src="/avatar-nt.webp" alt="Nerdy Technician avatar" />
   <div>
     <p class="about-eyebrow">Automation, infrastructure, and self-hosting</p>
     <h1>About Me</h1>
@@ -48,7 +48,7 @@
     </span>
   </a>
   <a href="https://github.com/Nerdy-Technician/Boiler-Plates" target="_blank" rel="noopener noreferrer">
-    <img src="/logos/boilerplates.png" alt="" />
+    <img src="/logos/boilerplates.webp" alt="" />
     <span>
       <strong>Boiler Plates</strong>
       Project templates, starter kits, and reusable setup patterns.
@@ -69,7 +69,7 @@
     </span>
   </a>
   <a href="https://github.com/jl94x4/Server-Manager-Portal" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/jl94x4/Server-Manager-Portal/raw/main/static/logo.png" alt="" />
+    <img src="/logos/contrib/server-manager-portal.png" alt="" />
     <span>
       <strong>Server Manager Portal</strong>
       Automated management and analytics portal for Plex Media Servers.
@@ -126,7 +126,7 @@
 ## Connect
 
 <div class="about-actions">
-  <a href="mailto:roffo@nerdy-technician.social">Email</a>
+  <a href="mailto:roffo@nerdytech.dev">Email</a>
   <a href="https://github.com/Nerdy-Technician/" target="_blank" rel="noopener noreferrer">GitHub</a>
   <a href="https://masto.nerdy-technician.social/@Roffo" target="_blank" rel="noopener noreferrer">Mastodon</a>
   <a href="/cv/">CV</a>

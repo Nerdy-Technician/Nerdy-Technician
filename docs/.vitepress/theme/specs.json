@@ -1,0 +1,66 @@
+{
+ "JellyGlance": {
+  "status": "Active",
+  "category": "Dashboard",
+  "stack": "React \u00b7 Express \u00b7 PostgreSQL",
+  "docs": "/docs/JellyGlance/",
+  "repository": "https://github.com/Nerdy-Technician/JellyGlance",
+  "live": ""
+ },
+ "NerdyPress": {
+  "status": "Active",
+  "category": "Generator",
+  "stack": "Vue \u00b7 VitePress \u00b7 Node",
+  "docs": "/docs/NerdyPress/",
+  "repository": "https://github.com/Nerdy-Technician/NerdyPress",
+  "live": "https://press.nerdytech.dev/"
+ },
+ "Nerdy-RMMScripts": {
+  "status": "Maintained",
+  "category": "Automation",
+  "stack": "PowerShell \u00b7 Shell \u00b7 RMM",
+  "docs": "/docs/Nerdy-RMMScripts/",
+  "repository": "https://github.com/Nerdy-Technician/Nerdy-RMMScripts",
+  "live": ""
+ },
+ "NerdyStore": {
+  "status": "Active",
+  "category": "Storefront",
+  "stack": "React \u00b7 JSON \u00b7 Nexterm",
+  "docs": "/docs/NerdyStore/",
+  "repository": "https://github.com/Nerdy-Technician/NerdyStore",
+  "live": "https://store.nerdytech.dev/"
+ },
+ "LinuxRMM-Script": {
+  "status": "Maintained",
+  "category": "Installer",
+  "stack": "Shell \u00b7 Tactical RMM \u00b7 Linux",
+  "docs": "/docs/LinuxRMMScript/Getting-Started",
+  "repository": "https://github.com/Nerdy-Technician/LinuxRMM-Script",
+  "live": ""
+ },
+ "BoilerPlates": {
+  "status": "Maintained",
+  "category": "Templates",
+  "stack": "Markdown \u00b7 Shell \u00b7 Web",
+  "docs": "/docs/BoilerPlates/Getting-Started",
+  "repository": "https://github.com/Nerdy-Technician/Boiler-Plates",
+  "live": ""
+ },
+ "SnippyCode": {
+  "status": "Active",
+  "category": "Snippet library",
+  "stack": "TypeScript \u00b7 React \u00b7 PostgreSQL",
+  "docs": "/projects/SnippyCode/",
+  "repository": "https://github.com/Nerdy-Technician/SnippyCode",
+  "live": ""
+ },
+ "MailBeacon": {
+  "status": "Active",
+  "category": "Notifications",
+  "stack": "TypeScript \u00b7 Node \u00b7 Docker",
+  "docs": "/projects/MailBeacon/",
+  "repository": "https://github.com/Nerdy-Technician/MailBeacon",
+  "live": ""
+ }
+}

@@ -8,8 +8,11 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   head: [
-    ['script', { defer: '', 'data-domain': 'nerdytech.dev', src: 'https://track.nerdytech.dev/js/script.js' }],
-    ['link', { rel: 'icon', href: 'https://avatars.githubusercontent.com/u/45691205?v=4' }],
+    ['link', { rel: 'icon', href: '/avatar-nt-64.webp' }],
+    ['link', { rel: 'preload', as: 'image', href: '/avatar-nt.webp', type: 'image/webp', fetchpriority: 'high' }],
+    ['link', { rel: 'preload', as: 'font', type: 'font/woff2', href: '/fonts/BarlowCondensed-700.woff2', crossorigin: '' }],
+    ['link', { rel: 'preload', as: 'font', type: 'font/woff2', href: '/fonts/ShareTechMono-400.woff2', crossorigin: '' }],
+    ['script', {}, "try{var p=location.pathname;if(/^\\/(index\\.html)?$/.test(p)&&!sessionStorage.getItem('nt08-boot')&&!matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('bp-boot-pending')}catch(e){}"],
     ['meta', { name: 'theme-color', content: '#c80000' }],
     ['meta', { property: 'og:title', content: 'Nerdy Technician' }],
     ['meta', { property: 'og:description', content: 'Infrastructure automation, self-hosting projects, and practical documentation.' }],
@@ -29,31 +32,38 @@ export default defineConfig({
           { text: 'JellyGlance', link: '/projects/JellyGlance/' },
           { text: 'SnippyCode', link: '/projects/SnippyCode/' },
           { text: 'NerdyPress', link: '/projects/NerdyPress/' },
-          { text: 'NerdyStore', link: '/projects/NerdyStore/' }
+          { text: 'NerdyStore', link: '/projects/NerdyStore/' },
+          { text: 'MailBeacon', link: '/projects/MailBeacon/' }
         ]
       },
-      { text: 'Docs', link: '/docs/' },
-      { text: 'Posts', link: '/posts/' },
       { text: 'Homelab', link: '/homelab' },
-      { text: 'Help', link: '/help' },
       { text: 'Contributions', link: '/contributions' },
       { text: 'About', link: '/about' },
+      { text: 'Docs', link: '/docs/' },
+      { text: 'Posts', link: '/posts/' },
+      { text: 'Guides', link: 'https://guides.nerdytech.dev/' },
       {
         text: 'Community',
         items: [
           { text: 'Blog', link: '/blog' },
           { text: 'CV & Expertise', link: '/cv/' }
         ]
-      }
-
+      },
+      { text: 'Help', link: '/help' }
     ],
-    logo: 'https://avatars.githubusercontent.com/u/45691205?v=4',
+    logo: '/avatar-nt-64.webp',
 
     search: {
       provider: 'local'
     },
 
     sidebar: {
+      '/projects/MailBeacon': [
+        { text: 'MailBeacon', items: [
+          { text: 'Overview', link: '/projects/MailBeacon/' },
+          { text: 'Repository', link: 'https://github.com/Nerdy-Technician/MailBeacon' },
+        ] }
+      ],
       '/projects/JellyGlance': [
         {
           text: 'JellyGlance',
@@ -205,7 +215,7 @@ export default defineConfig({
 
     footer: {
       message: 'Built with ❤️ using VitePress | Because Real Nerds Selfhost',
-      copyright: 'Copyright © 2024-2026 Nerdy Technician. All rights reserved.<br><a href="https://buymeacoffee.com/nerdytechie" target="_blank" rel="noopener">Buy Me A Coffee ☕</a>'
+      copyright: 'Copyright © 2024-2026 Nerdy Technician. All rights reserved.<br><a href="https://buymeacoffee.com/nerdytechie" target="_blank" rel="noopener">Buy Me A Coffee ☕</a> · <a href="https://guides.nerdytech.dev/" target="_blank" rel="noopener">Nerdy Guides</a>'
     },
 
     socialLinks: [

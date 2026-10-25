@@ -2,7 +2,7 @@
 title: JellyGlance in one place
 description: A complete look at JellyGlance, from Jellyfin activity and statistics to media-stack operations.
 author: Nerdy Technician
-authorImage: https://avatars.githubusercontent.com/u/45691205?v=4
+authorImage: /avatar-nt.webp
 date: 2026-09-17
 time: 23:20 BST
 category: Project deep dive
@@ -15,11 +15,11 @@ category: Project deep dive
 		<p class="post-article-lead">A practical view of the dashboard, from Jellyfin activity and statistics to the integrations and operational details around a real home media stack.</p>
 		<div class="post-article-meta"><span>Jellyfin</span><span>Self-hosted</span><span>Media operations</span></div>
 	</div>
-	<img src="/screenshots/jellyglance/home.png" alt="JellyGlance home dashboard" />
+	<img src="/screenshots/jellyglance/home.webp" alt="JellyGlance home dashboard" />
 </section>
 
 <div class="post-byline">
-	<img src="https://avatars.githubusercontent.com/u/45691205?v=4" alt="Nerdy Technician profile picture" />
+	<img src="/avatar-nt.webp" alt="Nerdy Technician profile picture" />
 	<div><strong>Nerdy Technician</strong><span>Published 17 Sep 2026 · 23:20 BST · Project deep dive</span></div>
 </div>
 
@@ -106,15 +106,15 @@ The project focuses on the details that keep a self-hosted system usable over ti
 
 <div class="post-image-mosaic">
 	<figure>
-		<img src="/screenshots/jellyglance/activity.png" alt="JellyGlance activity dashboard" />
+		<img src="/screenshots/jellyglance/activity.webp" alt="JellyGlance activity dashboard" />
 		<figcaption>Activity and live sessions</figcaption>
 	</figure>
 	<figure>
-		<img src="/screenshots/jellyglance/stats.png" alt="JellyGlance statistics dashboard" />
+		<img src="/screenshots/jellyglance/stats.webp" alt="JellyGlance statistics dashboard" />
 		<figcaption>Statistics and trends</figcaption>
 	</figure>
 	<figure>
-		<img src="/screenshots/jellyglance/users.png" alt="JellyGlance users dashboard" />
+		<img src="/screenshots/jellyglance/users.webp" alt="JellyGlance users dashboard" />
 		<figcaption>Users and roles</figcaption>
 	</figure>
 </div>

@@ -1,7 +1,7 @@
 <section class="linuxrmm-hero">
   <div>
     <p class="linuxrmm-eyebrow">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="" />
+      <img src="/logos/linux-original.svg" alt="" />
       Tactical RMM for Linux
     </p>
     <h1>LinuxRMM-Script</h1>
@@ -16,7 +16,7 @@
     </div>
   </div>
   <div class="linuxrmm-hero-mark" aria-hidden="true">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="" />
+    <img src="/logos/linux-original.svg" alt="" />
   </div>
 </section>
 

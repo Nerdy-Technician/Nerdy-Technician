@@ -1,0 +1,48 @@
+{
+ "asOf": "2026-10-24T18:20:49.618Z",
+ "source": "api.github.com/users/Nerdy-Technician (public endpoints)",
+ "publicRepos": 17,
+ "ownedRepos": 15,
+ "stars": 58,
+ "pushEvents30": 36,
+ "eventsWindowNote": "GitHub public events API (max 90 days / 300 events)",
+ "lastPush": "2026-10-24T17:37:55Z",
+ "repos": {
+  "JellyGlance": {
+   "stars": 135,
+   "forks": 7,
+   "pushed": "2026-10-24T12:22:53Z",
+   "url": "https://github.com/JellyGlance/Server",
+   "language": "JavaScript"
+  },
+  "MailBeacon": {
+   "stars": 0,
+   "forks": 0,
+   "pushed": "2026-10-24T18:05:27Z",
+   "url": "https://github.com/Nerdy-Technician/MailBeacon",
+   "language": "TypeScript"
+  }
+ },
+ "jellyglanceRelease": {
+  "tag": "v1.4.0",
+  "date": "2026-10-18T14:17:51Z",
+  "url": "https://github.com/JellyGlance/Server/releases/tag/v1.4.0"
+ },
+ "health": {
+  "JellyGlance": {
+   "url": "https://jellyglance.com/",
+   "status": 200,
+   "ok": true
+  },
+  "NerdyPress": {
+   "url": "https://press.nerdytech.dev/",
+   "status": 200,
+   "ok": true
+  },
+  "NerdyStore": {
+   "url": "https://store.nerdytech.dev/",
+   "status": 200,
+   "ok": true
+  }
+ }
+}

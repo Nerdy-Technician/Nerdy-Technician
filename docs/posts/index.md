@@ -23,7 +23,7 @@ description: Thoughts on homelab applications, self-hosted tools, and the system
         </div>
       </a>
       <a class="post-card" href="/posts/why-jellyglance-exists">
-        <img class="post-card-image" src="/screenshots/jellyglance/activity.png" alt="JellyGlance activity dashboard" />
+        <img class="post-card-image" src="/screenshots/jellyglance/activity.webp" alt="JellyGlance activity dashboard" />
         <div class="post-card-content">
           <span class="post-card-meta">Nerdy Technician · 17 Sep 2026 · Origin note</span>
           <h2>Why JellyGlance exists</h2>
@@ -32,7 +32,7 @@ description: Thoughts on homelab applications, self-hosted tools, and the system
         </div>
       </a>
       <a class="post-card" href="/posts/jellyglance-in-one-place">
-        <img class="post-card-image" src="/screenshots/jellyglance/home.png" alt="JellyGlance home dashboard" />
+        <img class="post-card-image" src="/screenshots/jellyglance/home.webp" alt="JellyGlance home dashboard" />
         <div class="post-card-content">
           <span class="post-card-meta">Nerdy Technician · 17 Sep 2026 · Project deep dive</span>
           <h2>JellyGlance in one place</h2>

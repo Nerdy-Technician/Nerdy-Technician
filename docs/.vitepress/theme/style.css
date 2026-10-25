@@ -508,49 +508,49 @@
   --vp-nav-height: 22px;
 }
 
-.VPMenuLink a[href="/homelab"] span::before,
-.VPSidebar a[href="/homelab"] .text::before {
+.VPMenuLink a[href$="/homelab"] span::before,
+.VPSidebar a[href$="/homelab"] .text::before {
   display: inline-block;
   width: 18px;
   height: 18px;
   margin-right: 8px;
   vertical-align: -4px;
-  background: url("/logos/homelab.png") center / contain no-repeat;
+  background: url("/logos/homelab.webp") center / contain no-repeat;
   content: "";
 }
 
-.VPMenuLink a[href="/projects/NerdyPress/"] span::before,
-.VPMenuLink a[href="/docs/NerdyPress/"] span::before,
-.VPSidebar:has(a[href="/projects/NerdyPress/"]) .VPSidebarItem.level-0 > .item .text::before,
-.VPSidebar a[href="/projects/NerdyPress/"] .text::before,
-.VPSidebar:has(a[href="/docs/NerdyPress/"]) .VPSidebarItem.level-0 > .item .text::before,
-.VPSidebar a[href="/docs/NerdyPress/"] .text::before {
+.VPMenuLink a[href$="/projects/NerdyPress/"] span::before,
+.VPMenuLink a[href$="/docs/NerdyPress/"] span::before,
+.VPSidebar:has(a[href$="/projects/NerdyPress/"]) .VPSidebarItem.level-0 > .item .text::before,
+.VPSidebar a[href$="/projects/NerdyPress/"] .text::before,
+.VPSidebar:has(a[href$="/docs/NerdyPress/"]) .VPSidebarItem.level-0 > .item .text::before,
+.VPSidebar a[href$="/docs/NerdyPress/"] .text::before {
   display: inline-block;
   width: 17px;
   height: 17px;
   margin-right: 8px;
   vertical-align: -4px;
-  background: url("/logos/nerdypress-logo.png") center / contain no-repeat;
+  background: url("/logos/nerdypress-logo.webp") center / contain no-repeat;
   content: "";
 }
 
-.VPMenuLink a[href="/projects/JellyGlance/"] span::before,
-.VPMenuLink a[href="/docs/JellyGlance/"] span::before,
-.VPSidebar:has(a[href="/projects/JellyGlance/"]) .VPSidebarItem.level-0 > .item .text::before,
-.VPSidebar a[href="/projects/JellyGlance/"] .text::before,
-.VPSidebar:has(a[href="/docs/JellyGlance/"]) .VPSidebarItem.level-0 > .item .text::before,
-.VPSidebar a[href="/docs/JellyGlance/"] .text::before {
+.VPMenuLink a[href$="/projects/JellyGlance/"] span::before,
+.VPMenuLink a[href$="/docs/JellyGlance/"] span::before,
+.VPSidebar:has(a[href$="/projects/JellyGlance/"]) .VPSidebarItem.level-0 > .item .text::before,
+.VPSidebar a[href$="/projects/JellyGlance/"] .text::before,
+.VPSidebar:has(a[href$="/docs/JellyGlance/"]) .VPSidebarItem.level-0 > .item .text::before,
+.VPSidebar a[href$="/docs/JellyGlance/"] .text::before {
   display: inline-block;
   width: 17px;
   height: 17px;
   margin-right: 8px;
   vertical-align: -4px;
-  background: url("/logos/jellyglance-icon.png") center / contain no-repeat;
+  background: url("/logos/jellyglance-icon.webp") center / contain no-repeat;
   content: "";
 }
 
-.VPSidebar:has(a[href="/docs/NerdyStore/"]) .VPSidebarItem.level-0 > .item .text::before,
-.VPSidebar a[href="/docs/NerdyStore/"] .text::before {
+.VPSidebar:has(a[href$="/docs/NerdyStore/"]) .VPSidebarItem.level-0 > .item .text::before,
+.VPSidebar a[href$="/docs/NerdyStore/"] .text::before {
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -566,10 +566,10 @@
   content: "↗";
 }
 
-.VPMenuLink a[href="/projects/NerdyStore/"] span::before,
-.VPMenuLink a[href="/docs/NerdyStore/"] span::before,
-.VPSidebar:has(a[href="/projects/NerdyStore/"]) .VPSidebarItem.level-0 > .item .text::before,
-.VPSidebar a[href="/projects/NerdyStore/"] .text::before {
+.VPMenuLink a[href$="/projects/NerdyStore/"] span::before,
+.VPMenuLink a[href$="/docs/NerdyStore/"] span::before,
+.VPSidebar:has(a[href$="/projects/NerdyStore/"]) .VPSidebarItem.level-0 > .item .text::before,
+.VPSidebar a[href$="/projects/NerdyStore/"] .text::before {
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -579,15 +579,15 @@
   content: "";
 }
 
-.VPMenuLink a[href="/projects/Nerdy-RMMScripts/"] span::before,
-.VPMenuLink a[href="/docs/Nerdy-RMMScripts/"] span::before,
-.VPMenuLink a[href="/docs/Nerdy-RMMScripts/Getting-Started"] span::before,
-.VPSidebar:has(a[href="/projects/Nerdy-RMMScripts/"]) .VPSidebarItem.level-0 > .item .text::before,
-.VPSidebar a[href="/projects/Nerdy-RMMScripts/"] .text::before,
-.VPSidebar:has(a[href="/docs/Nerdy-RMMScripts/"]) .VPSidebarItem.level-0 > .item .text::before,
-.VPSidebar a[href="/docs/Nerdy-RMMScripts/"] .text::before,
-.VPSidebar:has(a[href="/docs/Nerdy-RMMScripts/Getting-Started"]) .VPSidebarItem.level-0 > .item .text::before,
-.VPSidebar a[href="/docs/Nerdy-RMMScripts/Getting-Started"] .text::before {
+.VPMenuLink a[href$="/projects/Nerdy-RMMScripts/"] span::before,
+.VPMenuLink a[href$="/docs/Nerdy-RMMScripts/"] span::before,
+.VPMenuLink a[href$="/docs/Nerdy-RMMScripts/Getting-Started"] span::before,
+.VPSidebar:has(a[href$="/projects/Nerdy-RMMScripts/"]) .VPSidebarItem.level-0 > .item .text::before,
+.VPSidebar a[href$="/projects/Nerdy-RMMScripts/"] .text::before,
+.VPSidebar:has(a[href$="/docs/Nerdy-RMMScripts/"]) .VPSidebarItem.level-0 > .item .text::before,
+.VPSidebar a[href$="/docs/Nerdy-RMMScripts/"] .text::before,
+.VPSidebar:has(a[href$="/docs/Nerdy-RMMScripts/Getting-Started"]) .VPSidebarItem.level-0 > .item .text::before,
+.VPSidebar a[href$="/docs/Nerdy-RMMScripts/Getting-Started"] .text::before {
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -597,12 +597,12 @@
   content: "";
 }
 
-.VPMenuLink a[href="/projects/LinuxRMMScript/"] span::before,
-.VPMenuLink a[href="/docs/LinuxRMMScript/Getting-Started"] span::before,
-.VPSidebar:has(a[href="/projects/LinuxRMMScript/"]) .VPSidebarItem.level-0 > .item .text::before,
-.VPSidebar a[href="/projects/LinuxRMMScript/"] .text::before,
-.VPSidebar:has(a[href="/docs/LinuxRMMScript/Getting-Started"]) .VPSidebarItem.level-0 > .item .text::before,
-.VPSidebar a[href="/docs/LinuxRMMScript/Getting-Started"] .text::before {
+.VPMenuLink a[href$="/projects/LinuxRMMScript/"] span::before,
+.VPMenuLink a[href$="/docs/LinuxRMMScript/Getting-Started"] span::before,
+.VPSidebar:has(a[href$="/projects/LinuxRMMScript/"]) .VPSidebarItem.level-0 > .item .text::before,
+.VPSidebar a[href$="/projects/LinuxRMMScript/"] .text::before,
+.VPSidebar:has(a[href$="/docs/LinuxRMMScript/Getting-Started"]) .VPSidebarItem.level-0 > .item .text::before,
+.VPSidebar a[href$="/docs/LinuxRMMScript/Getting-Started"] .text::before {
   display: inline-block;
   width: 16px;
   height: 16px;
@@ -612,18 +612,18 @@
   content: "";
 }
 
-.VPMenuLink a[href="/projects/BoilerPlates/"] span::before,
-.VPMenuLink a[href="/docs/BoilerPlates/Getting-Started"] span::before,
-.VPSidebar:has(a[href="/projects/BoilerPlates/"]) .VPSidebarItem.level-0 > .item .text::before,
-.VPSidebar a[href="/projects/BoilerPlates/"] .text::before,
-.VPSidebar:has(a[href="/docs/BoilerPlates/Getting-Started"]) .VPSidebarItem.level-0 > .item .text::before,
-.VPSidebar a[href="/docs/BoilerPlates/Getting-Started"] .text::before {
+.VPMenuLink a[href$="/projects/BoilerPlates/"] span::before,
+.VPMenuLink a[href$="/docs/BoilerPlates/Getting-Started"] span::before,
+.VPSidebar:has(a[href$="/projects/BoilerPlates/"]) .VPSidebarItem.level-0 > .item .text::before,
+.VPSidebar a[href$="/projects/BoilerPlates/"] .text::before,
+.VPSidebar:has(a[href$="/docs/BoilerPlates/Getting-Started"]) .VPSidebarItem.level-0 > .item .text::before,
+.VPSidebar a[href$="/docs/BoilerPlates/Getting-Started"] .text::before {
   display: inline-block;
   width: 18px;
   height: 18px;
   margin-right: 8px;
   vertical-align: -4px;
-  background: url("/logos/boilerplates.png") center / 122% no-repeat;
+  background: url("/logos/boilerplates.webp") center / 122% no-repeat;
   content: "";
 }
 
