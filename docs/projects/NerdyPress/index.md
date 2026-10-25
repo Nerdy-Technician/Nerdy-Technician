@@ -1,7 +1,7 @@
 <section class="store-hero">
   <div>
     <p class="store-eyebrow">
-      <img src="/logos/nerdypress-logo.png" alt="" />
+      <img src="/logos/nerdypress-logo.webp" alt="" />
       VitePress site generator
     </p>
     <h1>NerdyPress</h1>
@@ -17,7 +17,7 @@
     </div>
   </div>
   <div class="store-hero-mark" aria-hidden="true">
-    <img src="/logos/nerdypress-logo.png" alt="" />
+    <img src="/logos/nerdypress-logo.webp" alt="" />
   </div>
 </section>
 
@@ -45,14 +45,14 @@
 
 <div class="store-link-grid">
   <a href="https://press.nerdytech.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="/logos/nerdypress-logo.png" alt="" />
+    <img src="/logos/nerdypress-logo.webp" alt="" />
     <span>
       <strong>Live NerdyPress app</strong>
       Generate a VitePress site from the browser.
     </span>
   </a>
   <a href="/docs/NerdyPress/">
-    <img src="/logos/nerdypress-logo.png" alt="" />
+    <img src="/logos/nerdypress-logo.webp" alt="" />
     <span>
       <strong>NerdyPress docs</strong>
       Learn what the generator creates and how to use it.

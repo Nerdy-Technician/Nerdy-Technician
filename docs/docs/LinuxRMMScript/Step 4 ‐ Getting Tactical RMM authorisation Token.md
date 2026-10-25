@@ -23,9 +23,9 @@
 
 In Tactical RMM, go to `Agents` then `Install Agents`.
 
-![Tactical RMM Dashboard](https://github.com/user-attachments/assets/4b2a4fe8-f9d9-49a6-a2cc-d36eac2b0031)
+![Tactical RMM Dashboard](/screenshots/linuxrmm/s4-dashboard.png)
 
-![Install Agents Page](https://github.com/user-attachments/assets/c500f46b-ef65-4f30-afe2-b64ac9c5b315)
+![Install Agents Page](/screenshots/linuxrmm/s4-install-agents.png)
 
 ## Select Install Options
 
@@ -33,7 +33,7 @@ Select any client and site for this token lookup. The exact choice does not
 matter here because the Linux install command will use the client and site IDs
 you collected in step 3.
 
-![Agent Install Options](https://github.com/user-attachments/assets/5bc5d266-2c50-49d4-89fd-5062ac2f3879)
+![Agent Install Options](/screenshots/linuxrmm/s4-install-options.png)
 
 Set the token expiry to whatever is appropriate for your environment.
 

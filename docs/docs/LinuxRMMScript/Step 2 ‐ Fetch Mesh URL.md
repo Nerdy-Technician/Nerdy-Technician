@@ -25,7 +25,7 @@ Use the MeshCentral credentials generated during the Tactical RMM installation.
 If you see a generated account such as `admin_1` or your Tactical RMM username,
 log out and use the default MeshCentral details instead.
 
-![MeshCentral Login](https://github.com/user-attachments/assets/00dc0ed5-c3de-4a51-9802-c4c9822d7fdc)
+![MeshCentral Login](/screenshots/linuxrmm/s2-meshcentral-login.png)
 
 ## Add A New Agent
 
@@ -43,7 +43,7 @@ Use these options:
   <article><strong>Install type</strong><span><code>Background and Interactive</code></span></article>
 </div>
 
-![MeshCentral Add Agent](https://github.com/user-attachments/assets/99ffc0db-53df-4334-bb9a-171d19852e0a)
+![MeshCentral Add Agent](/screenshots/linuxrmm/s2-meshcentral-add-agent.png)
 
 ## Copy The Base URL
 

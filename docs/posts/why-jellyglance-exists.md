@@ -2,7 +2,7 @@
 title: Why JellyGlance exists
 description: The operational gap around a Jellyfin media server that led to JellyGlance.
 author: Nerdy Technician
-authorImage: https://avatars.githubusercontent.com/u/45691205?v=4
+authorImage: /avatar-nt.webp
 date: 2026-09-17
 time: 23:20 BST
 category: Homelab app notes
@@ -15,11 +15,11 @@ category: Homelab app notes
 		<p class="post-article-lead">Jellyfin serves the media. JellyGlance is about the operational view around it: activity, health, users, queues, and the small signals that keep a home media stack understandable.</p>
 		<div class="post-article-meta"><span>Origin note</span><span>Homelab</span><span>Media stack</span></div>
 	</div>
-	<img src="/screenshots/jellyglance/activity.png" alt="JellyGlance activity dashboard" />
+	<img src="/screenshots/jellyglance/activity.webp" alt="JellyGlance activity dashboard" />
 </section>
 
 <div class="post-byline">
-	<img src="https://avatars.githubusercontent.com/u/45691205?v=4" alt="Nerdy Technician profile picture" />
+	<img src="/avatar-nt.webp" alt="Nerdy Technician profile picture" />
 	<div><strong>Nerdy Technician</strong><span>Published 17 Sep 2026 · 23:20 BST · Homelab app notes</span></div>
 </div>
 

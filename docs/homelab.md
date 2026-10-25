@@ -5,7 +5,7 @@ title: Homelab
 <section class="homelab-hero">
   <div>
     <p class="homelab-eyebrow">
-      <img src="/logos/homelab.png" alt="" />
+      <img src="/logos/homelab.webp" alt="" />
       Personal infrastructure
     </p>
     <h1>Homelab</h1>
@@ -15,14 +15,14 @@ title: Homelab
     </p>
   </div>
   <div class="homelab-hero-mark" aria-hidden="true">
-    <img src="/logos/homelab.png" alt="" />
+    <img src="/logos/homelab.webp" alt="" />
   </div>
 </section>
 
 I run a small self-hosted rack as my personal infrastructure playground: 3 physical nodes hosting 5 production VMs, each named after a figure from Norse mythology — **Odin, Loki, Heimdall, Thor,** and **Midgard** — plus 2 Raspberry Pis handling dedicated network appliance duties. It's where I host the tools I actually use day to day, and where I test automation, networking, and deployment ideas before they'd ever touch anything production-facing.
 
 <div style="max-width: none; overflow-x: auto; margin: 20px 0;">
-  <img src="/logos/Homelab.png" alt="Front and rear layout of the homelab rack" style="width: 100%; max-width: 900px;">
+  <img src="/logos/Homelab.webp" alt="Front and rear layout of the homelab rack" style="width: 100%; max-width: 900px;">
 </div>
 
 *Front and rear layout of the rack build.*

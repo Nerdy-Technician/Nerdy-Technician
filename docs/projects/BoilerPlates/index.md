@@ -1,7 +1,7 @@
 <section class="boiler-hero">
   <div>
     <p class="boiler-eyebrow">
-      <img src="/logos/boilerplates.png" alt="" />
+      <img src="/logos/boilerplates.webp" alt="" />
       Template library
     </p>
     <h1>BoilerPlates</h1>
@@ -16,7 +16,7 @@
     </div>
   </div>
   <div class="boiler-hero-mark" aria-hidden="true">
-    <img src="/logos/boilerplates.png" alt="" />
+    <img src="/logos/boilerplates.webp" alt="" />
   </div>
 </section>
 
@@ -76,12 +76,12 @@
 
 <div class="boiler-link-grid">
   <a href="/docs/BoilerPlates/Getting-Started">
-    <img src="/logos/boilerplates.png" alt="" />
+    <img src="/logos/boilerplates.webp" alt="" />
     <strong>Getting Started</strong>
     <em>Clone the repo and use your first template.</em>
   </a>
   <a href="https://github.com/Nerdy-Technician/Boiler-Plates" target="_blank" rel="noopener noreferrer">
-    <img src="/logos/boilerplates.png" alt="" />
+    <img src="/logos/boilerplates.webp" alt="" />
     <strong>Repository</strong>
     <em>Browse source files, issues, and pull requests.</em>
   </a>

@@ -2,7 +2,7 @@
 title: Why Dockhand earned a place in my homelab
 description: A personal note on why Dockhand feels like the right kind of Docker management tool for a self-hosted stack.
 author: Nerdy Technician
-authorImage: https://avatars.githubusercontent.com/u/45691205?v=4
+authorImage: /avatar-nt.webp
 date: 2026-09-17
 time: 23:20 BST
 category: Homelab app notes
@@ -19,7 +19,7 @@ category: Homelab app notes
 </section>
 
 <div class="post-byline">
-  <img src="https://avatars.githubusercontent.com/u/45691205?v=4" alt="Nerdy Technician profile picture" />
+  <img src="/avatar-nt.webp" alt="Nerdy Technician profile picture" />
   <div><strong>Nerdy Technician</strong><span>Published 17 Sep 2026 · 23:20 BST · Homelab app notes</span></div>
 </div>
 

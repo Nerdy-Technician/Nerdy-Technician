@@ -24,7 +24,7 @@
 Open your Tactical RMM instance, for example `https://trmm.example.com`, and
 log in with your account.
 
-![Tactical RMM Login](https://github.com/user-attachments/assets/b838e2fb-8ddf-42be-9357-4c57a3e8c900)
+![Tactical RMM Login](/screenshots/linuxrmm/s3-trmm-login.png)
 
 ## Locate The IDs
 
@@ -46,9 +46,9 @@ log in with your account.
   </article>
 </div>
 
-![Client ID Example](https://github.com/user-attachments/assets/c8e37b40-385a-47a4-a3a3-9d3b548c4c57)
+![Client ID Example](/screenshots/linuxrmm/s3-client-id.png)
 
-![Site ID Example](https://github.com/user-attachments/assets/cde514e5-ad6a-4643-b4c5-764c5f62d7a2)
+![Site ID Example](/screenshots/linuxrmm/s3-site-id.png)
 
 ## Example Values
 

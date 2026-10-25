@@ -36,7 +36,7 @@ title: Automation
 
 <div class="cv-tool-grid">
   <article>
-    <img src="https://cdn.simpleicons.org/powershell/5391FE" alt="" />
+    <img src="/logos/contrib/powershell.svg" alt="" />
     <strong>PowerShell</strong>
     <span>Windows automation, Intune remediation, reporting, scheduled tasks, and administration.</span>
   </article>

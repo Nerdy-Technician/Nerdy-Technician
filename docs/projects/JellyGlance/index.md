@@ -1,7 +1,7 @@
 <section class="store-hero jellyglance-hero">
   <div>
     <p class="store-eyebrow">
-      <img src="/logos/jellyglance-icon.png" alt="" />
+      <img src="/logos/jellyglance-icon.webp" alt="" />
       Jellyfin analytics dashboard
     </p>
     <h1>JellyGlance</h1>
@@ -18,11 +18,11 @@
     </div>
   </div>
   <div class="store-hero-mark jellyglance-mark" aria-hidden="true">
-    <img src="/logos/jellyglance-icon.png" alt="" />
+    <img src="/logos/jellyglance-icon.webp" alt="" />
   </div>
 </section>
 
-<img class="jellyglance-preview" src="/screenshots/jellyglance/home.png" alt="JellyGlance home dashboard">
+<img class="jellyglance-preview" src="/screenshots/jellyglance/home.webp" alt="JellyGlance home dashboard">
 
 ## What It Does
 
@@ -69,15 +69,15 @@
 
 <div class="jellyglance-screenshot-grid">
   <figure>
-    <img src="/screenshots/jellyglance/activity.png" alt="JellyGlance activity page">
+    <img src="/screenshots/jellyglance/activity.webp" alt="JellyGlance activity page">
     <figcaption>Activity</figcaption>
   </figure>
   <figure>
-    <img src="/screenshots/jellyglance/stats.png" alt="JellyGlance statistics page">
+    <img src="/screenshots/jellyglance/stats.webp" alt="JellyGlance statistics page">
     <figcaption>Statistics</figcaption>
   </figure>
   <figure>
-    <img src="/screenshots/jellyglance/users.png" alt="JellyGlance users page">
+    <img src="/screenshots/jellyglance/users.webp" alt="JellyGlance users page">
     <figcaption>Users and roles</figcaption>
   </figure>
 </div>
@@ -86,14 +86,14 @@
 
 <div class="store-link-grid">
   <a href="https://docs.jellyglance.com/" target="_blank" rel="noopener noreferrer">
-    <img src="/logos/jellyglance-icon.png" alt="" />
+    <img src="/logos/jellyglance-icon.webp" alt="" />
     <span>
       <strong>Live documentation</strong>
       Read the full JellyGlance guide, integrations page, screenshots, and operations notes.
     </span>
   </a>
   <a href="https://jellyglance.com/" target="_blank" rel="noopener noreferrer">
-    <img src="/logos/jellyglance-icon.png" alt="" />
+    <img src="/logos/jellyglance-icon.webp" alt="" />
     <span>
       <strong>Live project</strong>
       Open the JellyGlance project website and dashboard.

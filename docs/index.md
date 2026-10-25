@@ -26,13 +26,13 @@ hero:
       link: /help
 
   image:
-    src: https://avatars.githubusercontent.com/u/45691205?v=4
+    src: /avatar-nt.webp
     alt: Nerdy Technician logo
 
 
 features:
   - icon:
-      src: /logos/jellyglance-icon.png
+      src: /logos/jellyglance-icon.webp
       alt: JellyGlance logo
     title: JellyGlance
     details: A modern Jellyfin analytics and media-control dashboard for sessions, users, libraries, statistics, Arr calendars, download queues, and webhooks.
@@ -40,7 +40,7 @@ features:
     linkText: View Project
 
   - icon:
-      src: /logos/nerdypress-logo.png
+      src: /logos/nerdypress-logo.webp
       alt: NerdyPress logo
     title: NerdyPress
     details: A visual VitePress site generator with theme controls, page editing, integrations, and deployment workflows.
@@ -56,7 +56,7 @@ features:
     linkText: View Project
 
   - icon:
-      src: https://store.nerdytech.dev/favicon.svg
+      src: /logos/nerdystore-favicon.svg
       alt: NerdyStore logo
     title: NerdyStore
     details: A third-party storefront for the Nexterm and Nexploy ecosystem, with apps, scripts, snippets, and themes.
@@ -64,7 +64,7 @@ features:
     linkText: View Project
 
   - icon:
-      src: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
+      src: /logos/linux-original.svg
       alt: Tux Linux logo
     title: LinuxRMM-Script
     details: A guided Linux installer for Tactical RMM agents, with clearer prompts, logging, and architecture detection.
@@ -72,7 +72,7 @@ features:
     linkText: View Project
 
   - icon:
-      src: /logos/boilerplates.png
+      src: /logos/boilerplates.webp
       alt: BoilerPlates logo
     title: BoilerPlates
     details: Reusable starter templates and snippets for faster, more consistent project setup.
@@ -86,12 +86,21 @@ features:
     linkText: View CV
 
   - icon:
-      src: https://github.com/Nerdy-Technician/SnippyCode/raw/main/client/public/CodeSnippy.png
+      src: /logos/snippycode.png
       alt: SnippyCode logo
     title: SnippyCode
     details: An active project currently being developed in the Nerdy Technician ecosystem.
     link: /projects/SnippyCode/
     linkText: View Project
+
+  - icon:
+      src: /logos/mailbeacon-logo.svg
+      alt: MailBeacon logo
+    title: MailBeacon
+    details: "A tiny SMTP server for apps that can only shout by email: it routes every message to Gotify, ntfy, Pushover or Apprise."
+    link: /projects/MailBeacon/
+    linkText: View Project
+
 ---
 
 <nav class="home-option-pills" aria-label="Explore Nerdy Technician">
@@ -128,3 +137,9 @@ features:
   <a href="/help"><span>+</span><small>Help</small></a>
   <a href="/contributions"><span>↗</span><small>Contribute</small></a>
 </nav>
+
+<aside class="guides-callout">
+  <img src="/logos/nerdyguides-logo.svg" alt="Nerdy Guides logo" />
+  <div><strong>Nerdy Guides</strong><span>Step-by-step self-hosting and Docker guides.</span></div>
+  <a href="https://guides.nerdytech.dev/" target="_blank" rel="noopener">Read the guides ↗</a>
+</aside>

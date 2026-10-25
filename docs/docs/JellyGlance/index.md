@@ -6,21 +6,21 @@ JellyGlance is my Jellyfin companion dashboard for home-server visibility and me
 
 <div class="store-link-grid">
   <a href="/projects/JellyGlance/">
-    <img src="/logos/jellyglance-icon.png" alt="" />
+    <img src="/logos/jellyglance-icon.webp" alt="" />
     <span>
       <strong>Portfolio project page</strong>
       See the local portfolio overview, highlights, screenshots, and project links.
     </span>
   </a>
   <a href="https://docs.jellyglance.com/" target="_blank" rel="noopener noreferrer">
-    <img src="/logos/jellyglance-icon.png" alt="" />
+    <img src="/logos/jellyglance-icon.webp" alt="" />
     <span>
       <strong>JellyGlance docs</strong>
       Open the full project documentation, integrations guide, Docker notes, and screenshot gallery.
     </span>
   </a>
   <a href="https://jellyglance.com/" target="_blank" rel="noopener noreferrer">
-    <img src="/logos/jellyglance-icon.png" alt="" />
+    <img src="/logos/jellyglance-icon.webp" alt="" />
     <span>
       <strong>JellyGlance</strong>
       Open the live project website and dashboard.

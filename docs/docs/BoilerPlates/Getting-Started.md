@@ -1,7 +1,7 @@
 <section class="boiler-hero boiler-hero-compact">
   <div>
     <p class="boiler-eyebrow">
-      <img src="/logos/boilerplates.png" alt="" />
+      <img src="/logos/boilerplates.webp" alt="" />
       Getting started
     </p>
     <h1>Use A BoilerPlate</h1>
@@ -15,7 +15,7 @@
     </div>
   </div>
   <div class="boiler-hero-mark" aria-hidden="true">
-    <img src="/logos/boilerplates.png" alt="" />
+    <img src="/logos/boilerplates.webp" alt="" />
   </div>
 </section>
 

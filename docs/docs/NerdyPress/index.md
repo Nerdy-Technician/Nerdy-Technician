@@ -1,7 +1,7 @@
 <section class="nt-product-hero nt-product-hero-press">
   <div>
     <p class="nt-product-eyebrow">
-      <img src="/logos/nerdypress-logo.png" alt="" />
+      <img src="/logos/nerdypress-logo.webp" alt="" />
       NerdyPress Documentation
     </p>
     <h1>Design and export VitePress sites from the browser.</h1>
@@ -17,7 +17,7 @@
     </div>
   </div>
   <div class="nt-product-panel" aria-hidden="true">
-    <img src="/logos/nerdypress-logo.png" alt="" />
+    <img src="/logos/nerdypress-logo.webp" alt="" />
     <span>VitePress</span>
     <strong>Project generator</strong>
     <div class="nt-product-panel-list">
@@ -126,14 +126,14 @@ my-vitepress-site/
 
 <div class="nt-link-grid">
   <a href="https://press.nerdytech.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="/logos/nerdypress-logo.png" alt="" />
+    <img src="/logos/nerdypress-logo.webp" alt="" />
     <span>
       <strong>Open the live app</strong>
       Generate a VitePress project in the browser.
     </span>
   </a>
   <a href="/projects/NerdyPress/">
-    <img src="/logos/nerdypress-logo.png" alt="" />
+    <img src="/logos/nerdypress-logo.webp" alt="" />
     <span>
       <strong>View the project page</strong>
       See the product overview and related resources.

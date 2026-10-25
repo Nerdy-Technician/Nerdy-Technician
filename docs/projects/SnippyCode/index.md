@@ -6,7 +6,7 @@ description: An active project currently being developed by Nerdy Technician.
 <section class="store-hero">
   <div>
     <p class="store-eyebrow">
-      <img src="https://github.com/Nerdy-Technician/SnippyCode/raw/main/client/public/CodeSnippy.png" alt="SnippyCode logo" />
+      <img src="/logos/snippycode.png" alt="SnippyCode logo" />
       Active project
     </p>
     <h1>SnippyCode</h1>
@@ -21,7 +21,7 @@ description: An active project currently being developed by Nerdy Technician.
     </div>
   </div>
   <div class="store-hero-mark" aria-hidden="true">
-    <img src="https://github.com/Nerdy-Technician/SnippyCode/raw/main/client/public/CodeSnippy.png" alt="SnippyCode logo" />
+    <img src="/logos/snippycode.png" alt="SnippyCode logo" />
   </div>
 </section>
 

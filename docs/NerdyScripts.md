@@ -1,19 +1,14 @@
 ---
-layout: page
-head:
-  - - meta
-    - http-equiv: refresh
-      content: 0;url=https://raw.githubusercontent.com/Nerdy-Technician/NerdyStore/refs/heads/main/nexterm
+title: NerdyScripts
 ---
 
-<script setup>
-import { onMounted } from 'vue'
-
-onMounted(() => {
-  window.location.href = 'https://raw.githubusercontent.com/Nerdy-Technician/NerdyStore/refs/heads/main/nexterm'
-})
-</script>
-
-# Redirecting...
-
-If you are not redirected automatically, [click here](https://raw.githubusercontent.com/Nerdy-Technician/NerdyStore/refs/heads/main/nexterm).
+<div class="nt-redirect">
+  <p class="nt-redirect-ref">DWG NO. NT-NXS · Moved</p>
+  <h1>Nexterm scripts &amp; snippets</h1>
+  <p>NerdyScripts now live in the NerdyStore repository, in the <code>nexterm/</code> folder (scripts, snippets and themes).</p>
+  <div class="nt-redirect-actions">
+    <a class="primary" href="https://github.com/Nerdy-Technician/NerdyStore/tree/main/nexterm">Open nexterm/ on GitHub</a>
+    <a href="https://store.nerdytech.dev/">NerdyStore</a>
+    <a href="./docs/NerdyStore/">NerdyStore docs</a>
+  </div>
+</div>

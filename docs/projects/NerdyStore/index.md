@@ -1,7 +1,7 @@
 <section class="store-hero">
   <div>
     <p class="store-eyebrow">
-      <img src="https://store.nerdytech.dev/favicon.svg" alt="" />
+      <img src="/logos/nerdystore-favicon.svg" alt="" />
       Nexterm and Nexploy catalog
     </p>
     <h1>NerdyStore</h1>
@@ -16,7 +16,7 @@
     </div>
   </div>
   <div class="store-hero-mark" aria-hidden="true">
-    <img src="https://store.nerdytech.dev/favicon.svg" alt="" />
+    <img src="/logos/nerdystore-favicon.svg" alt="" />
   </div>
 </section>
 
@@ -63,14 +63,14 @@
 
 <div class="store-link-grid">
   <a href="/docs/NerdyStore/">
-    <img src="https://store.nerdytech.dev/favicon.svg" alt="" />
+    <img src="/logos/nerdystore-favicon.svg" alt="" />
     <span>
       <strong>Documentation</strong>
       Learn how the catalog is structured and maintained.
     </span>
   </a>
   <a href="https://store.nerdytech.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://store.nerdytech.dev/favicon.svg" alt="" />
+    <img src="/logos/nerdystore-favicon.svg" alt="" />
     <span>
       <strong>Live Store</strong>
       Browse the current public storefront.

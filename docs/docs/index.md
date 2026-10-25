@@ -5,14 +5,14 @@ and generated site builders.
 
 <div class="store-link-grid">
   <a href="/docs/JellyGlance/">
-    <img src="/logos/jellyglance-icon.png" alt="" />
+    <img src="/logos/jellyglance-icon.webp" alt="" />
     <span>
       <strong>JellyGlance</strong>
       Portfolio notes and links for the Jellyfin analytics dashboard, docs site, container image, and repository.
     </span>
   </a>
   <a href="/docs/NerdyPress/">
-    <img src="/logos/nerdypress-logo.png" alt="" />
+    <img src="/logos/nerdypress-logo.webp" alt="" />
     <span>
       <strong>NerdyPress</strong>
       Visual VitePress site generator with theming, page editing, integrations, and deployment helpers.
