@@ -8,6 +8,8 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   head: [
+    ['script', { async: '', src: 'https://track.nerdytech.dev/js/pa-u-kCJ2joA_uH-2G4VEVFt.js' }],
+    ['script', {}, "window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};plausible.init()"],
     ['link', { rel: 'icon', href: '/avatar-nt-64.webp' }],
     ['link', { rel: 'preload', as: 'image', href: '/avatar-nt.webp', type: 'image/webp', fetchpriority: 'high' }],
     ['link', { rel: 'preload', as: 'font', type: 'font/woff2', href: '/fonts/BarlowCondensed-700.woff2', crossorigin: '' }],
